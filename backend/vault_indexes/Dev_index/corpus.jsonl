@@ -1,0 +1,1993 @@
+{"id": 0, "text": "Summarizer/Test 1.md"}
+{"id": 1, "text": "Notes/The Role of a Product Manager - 2024-06-25.md"}
+{"id": 2, "text": "Notes/The Capacity for Moral Self-Correction in Large Language Models.md"}
+{"id": 3, "text": "Notes/Situational Awareness - The Decade Ahead.md"}
+{"id": 4, "text": "Notes/Resampling and Cross-Validation.md"}
+{"id": 5, "text": "Notes/Massive Multitask Language Understanding (MMLU).md"}
+{"id": 6, "text": "Notes/Lessons Learned Building Products Powered by Generative AI - Buzzfeed.md"}
+{"id": 7, "text": "Notes/LLM Quantization.md"}
+{"id": 8, "text": "Notes/I Need to Write a Paper\u2014How Do I Start?.md"}
+{"id": 9, "text": "Notes/DDK Distilling Domain Knowledge for Efficient Large Language Models.md"}
+{"id": 10, "text": "Notes/Classification Metrics.md"}
+{"id": 11, "text": "Notes/2024-07-08 Weekly.md"}
+{"id": 12, "text": "Notes/Challenges in Evaluating AI systems.md"}
+{"id": 13, "text": "Notes/Are Emergent Abilities in Large Language Models just In-Context Learning?.md"}
+{"id": 14, "text": "Notes/2024-04-08.md"}
+{"id": 15, "text": "Notes/2023-07-28.md"}
+{"id": 16, "text": "Notes/2023-05-27.md"}
+{"id": 17, "text": "Notes/2023-05-05.md"}
+{"id": 18, "text": "Notes/2023-04-05.md"}
+{"id": 19, "text": "Mathsidian/Test 6.md"}
+{"id": 20, "text": "Mathsidian/Test 5.md"}
+{"id": 21, "text": "Mathsidian/Test 4.md"}
+{"id": 22, "text": "Mathsidian/Test 3.md"}
+{"id": 23, "text": "Mathsidian/Test 2.md"}
+{"id": 24, "text": "Mathsidian/Test 1.md"}
+{"id": 25, "text": "9. Admin/Templates/Playbook.md"}
+{"id": 26, "text": "9. Admin/Templates/Zettel.md"}
+{"id": 27, "text": "9. Admin/Templates/Zettel Lit Note.md"}
+{"id": 28, "text": "9. Admin/Templates/Weekly Note.md"}
+{"id": 29, "text": "9. Admin/Templates/Learning Path.md"}
+{"id": 30, "text": "9. Admin/Templates/Atomic Essay.md"}
+{"id": 31, "text": "7. School/MS Data Science Program.md"}
+{"id": 32, "text": "7. School/MMM.md"}
+{"id": 33, "text": "7. School/Likelihood Ratio.md"}
+{"id": 34, "text": "7. School/DATA 624 Predictive Modeling/The \"Harry Potter Effect\" in Recommender Systems.md"}
+{"id": 35, "text": "7. School/DATA 624 Predictive Modeling/DATA 624 Tasks and Schedule.md"}
+{"id": 36, "text": "7. School/DATA 624 Predictive Modeling/DATA 624 Syllabus.md"}
+{"id": 37, "text": "7. School/DATA 624 Predictive Modeling/DATA 624 Project Notes.md"}
+{"id": 38, "text": "7. School/DATA 624 Predictive Modeling/DATA 624 Midterm Project Notes.md"}
+{"id": 39, "text": "7. School/DATA 624 Predictive Modeling/DATA 624 Discussion Questions.md"}
+{"id": 40, "text": "7. School/DATA 624 Predictive Modeling/Class Notes/DATA 624 Market Basket Analysis.md"}
+{"id": 41, "text": "7. School/DATA 624 Predictive Modeling/Class Notes/DATA 624 Class Notes - Week 1.md"}
+{"id": 42, "text": "7. School/DATA 624 Predictive Modeling/Book Notes/Forecasting P&P - Ch 8 Notes.md"}
+{"id": 43, "text": "7. School/DATA 624 Predictive Modeling/Book Notes/Forecasting P&P - Ch 7 Notes.md"}
+{"id": 44, "text": "7. School/DATA 624 Predictive Modeling/Book Notes/Forecasting P&P - Ch 6 Notes.md"}
+{"id": 45, "text": "7. School/DATA 624 Predictive Modeling/Book Notes/Forecasting P&P - Ch 3 Notes.md"}
+{"id": 46, "text": "7. School/DATA 624 Predictive Modeling/Book Notes/Forecasting P&P - Ch 2 Notes.md"}
+{"id": 47, "text": "7. School/DATA 624 Predictive Modeling/Book Notes/Forecasting P&P - Ch 1 Notes.md"}
+{"id": 48, "text": "7. School/DATA 624 Predictive Modeling/Book Notes/Applied Predictive Modeling - Ch 8 Notes.md"}
+{"id": 49, "text": "7. School/DATA 624 Predictive Modeling/Book Notes/Applied Predictive Modeling - Ch 7 Notes.md"}
+{"id": 50, "text": "7. School/DATA 624 Predictive Modeling/Book Notes/Applied Predictive Modeling - Ch 6 Notes.md"}
+{"id": 51, "text": "7. School/DATA 624 Predictive Modeling/Book Notes/Applied Predictive Modeling - Ch 4 Notes.md"}
+{"id": 52, "text": "7. School/DATA 624 Predictive Modeling/Book Notes/Applied Predictive Modeling - Ch 1-3 Notes.md"}
+{"id": 53, "text": "7. School/FastAI Practical Deep Learning/PDL - Lesson 3 - Neural Net Foundations.md"}
+{"id": 54, "text": "7. School/FastAI Practical Deep Learning/PDL - Lesson 2.md"}
+{"id": 55, "text": "7. School/FastAI Practical Deep Learning/PDL - Lesson 1.md"}
+{"id": 56, "text": "7. School/FastAI Practical Deep Learning/Index.md"}
+{"id": 57, "text": "7. School/FastAI Practical Deep Learning/FastAI Practical Deep Learning.md"}
+{"id": 58, "text": "7. School/DATA 698 Masters Research Project/Topics/MisInformation.md"}
+{"id": 59, "text": "7. School/DATA 698 Masters Research Project/Topics/Emergence.md"}
+{"id": 60, "text": "7. School/DATA 698 Masters Research Project/Topics/Commercial Applications.md"}
+{"id": 61, "text": "7. School/DATA 698 Masters Research Project/Topics/Alignment & Evaluation.md"}
+{"id": 62, "text": "7. School/DATA 698 Masters Research Project/Resources.md"}
+{"id": 63, "text": "7. School/DATA 698 Masters Research Project/Research Topics.md"}
+{"id": 64, "text": "7. School/DATA 698 Masters Research Project/Research Methods.md"}
+{"id": 65, "text": "7. School/DATA 698 Masters Research Project/Replication Approach.md"}
+{"id": 66, "text": "7. School/DATA 698 Masters Research Project/Overview - Third-Party Testing AI.md"}
+{"id": 67, "text": "7. School/DATA 698 Masters Research Project/GPT Topic Suggestions.md"}
+{"id": 68, "text": "7. School/DATA 698 Masters Research Project/DATA 698 Masters Research Project.md"}
+{"id": 69, "text": "7. School/DATA 698 Masters Research Project/Assumptions.md"}
+{"id": 70, "text": "7. School/DATA 622 Machine Learning & Big Data/DATA 622 Machine Learning & Big Data.md"}
+{"id": 71, "text": "7. School/DATA 621 Data Mining/DATA 621 - Syllabus and Course Plan.md"}
+{"id": 72, "text": "7. School/DATA 621 Data Mining/Notes/R+ R-Squared + RSS + RSE.md"}
+{"id": 73, "text": "7. School/DATA 621 Data Mining/Notes/Modern Approach to Regression (MARR)/Modern Approach to Regression (MARR).md"}
+{"id": 74, "text": "7. School/DATA 621 Data Mining/Notes/Modern Approach to Regression (MARR)/9 MARR Serially Correlated Errors - Notes.md"}
+{"id": 75, "text": "7. School/DATA 621 Data Mining/Notes/Modern Approach to Regression (MARR)/8 MARR Logistic Regression - Notes.md"}
+{"id": 76, "text": "7. School/DATA 621 Data Mining/Notes/Modern Approach to Regression (MARR)/7 MARR Variable Selection - Notes.md"}
+{"id": 77, "text": "7. School/DATA 621 Data Mining/Notes/Modern Approach to Regression (MARR)/6 MARR Diagnostics + Transforms for MLR - Notes.md"}
+{"id": 78, "text": "7. School/DATA 621 Data Mining/Notes/Modern Approach to Regression (MARR)/5 MARR Multiple Linear Regression - Notes.md"}
+{"id": 79, "text": "7. School/DATA 621 Data Mining/Notes/Modern Approach to Regression (MARR)/4 MARR Weighted Least Squares - Notes.md"}
+{"id": 80, "text": "7. School/DATA 621 Data Mining/Notes/Modern Approach to Regression (MARR)/3 MARR Diagnostics + Transforms for LR - Notes.md"}
+{"id": 81, "text": "7. School/DATA 621 Data Mining/Notes/Modern Approach to Regression (MARR)/2 MARR Simple Linear Regression - Notes.md"}
+{"id": 82, "text": "7. School/DATA 621 Data Mining/Notes/Modern Approach to Regression (MARR)/10 MARR Mixed Models  - Notes.md"}
+{"id": 83, "text": "7. School/DATA 621 Data Mining/Notes/Modern Approach to Regression (MARR)/1 MARR Introduction - Notes.md"}
+{"id": 84, "text": "7. School/DATA 621 Data Mining/Notes/Modern Approach to Regression (MARR)/0 MARR - Text + Setup.md"}
+{"id": 85, "text": "7. School/DATA 621 Data Mining/Notes/Marginal Effects.md"}
+{"id": 86, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/Linear Models with R (LMR).md"}
+{"id": 87, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/9 LMR Shrinkage Methods - Notes.md"}
+{"id": 88, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/8 LMR Variable Selection - Notes.md"}
+{"id": 89, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/7 LMR Transformation - Notes.md"}
+{"id": 90, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/6 LMR Problems with the Error - Notes.md"}
+{"id": 91, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/5 LMR Problems with Predictors - Notes.md"}
+{"id": 92, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/4 LMR Diagnostics - Notes.md"}
+{"id": 93, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/3 LMR Inference - Notes.md"}
+{"id": 94, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/2 LMR Estimation - Notes.md"}
+{"id": 95, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/16 LMR Block Designs - Notes.md"}
+{"id": 96, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/15 LMR Factorial Designs - Notes.md"}
+{"id": 97, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/14 LMR One-Way Analysis of Variance - Notes.md"}
+{"id": 98, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/13 LMR Analysis of Covariance - Notes.md"}
+{"id": 99, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/12 LMR Missing Data - Notes.md"}
+{"id": 100, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/11 LMR Insurance Redlining - Notes.md"}
+{"id": 101, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/10 LMR Statistical Strategy + Model Uncertainty - Notes.md"}
+{"id": 102, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/1 LMR Introduction - Notes.md"}
+{"id": 103, "text": "7. School/DATA 621 Data Mining/Notes/Linear Models with R (LMR)/0 LMR - Text and Setup.md"}
+{"id": 104, "text": "7. School/DATA 621 Data Mining/Notes/LR - Outliers, Leverage, Discrepancy and Influence.md"}
+{"id": 105, "text": "7. School/DATA 621 Data Mining/Notes/LR - Linear Regression.md"}
+{"id": 106, "text": "7. School/DATA 621 Data Mining/Notes/Homework 5 Notes.md"}
+{"id": 107, "text": "7. School/DATA 621 Data Mining/Notes/Homework 4 Notes.md"}
+{"id": 108, "text": "7. School/DATA 621 Data Mining/Notes/Homework 1 Notes.md"}
+{"id": 109, "text": "7. School/DATA 621 Data Mining/Notes/GLM - Generalized Linear Models.md"}
+{"id": 110, "text": "7. School/DATA 621 Data Mining/Notes/GLM - Binary Classification and ROC Curves.md"}
+{"id": 111, "text": "7. School/DATA 621 Data Mining/Notes/GLM - Binary Classification Metrics.md"}
+{"id": 112, "text": "7. School/DATA 621 Data Mining/Notes/Feature Selection Notes.md"}
+{"id": 113, "text": "7. School/DATA 621 Data Mining/Notes/CR - Count Regression.md"}
+{"id": 114, "text": "7. School/DATA 621 Data Mining/Notes/Blog Post Ideas.md"}
+{"id": 115, "text": "7. School/DATA 621 Data Mining/Notes/Bias-Variance Decomposition.md"}
+{"id": 116, "text": "7. School/DATA 621 Data Mining/Classes - 2022/Week 9 - Count Regression.md"}
+{"id": 117, "text": "7. School/DATA 621 Data Mining/Classes - 2022/Week 8 - Binary Logistic Regression.md"}
+{"id": 118, "text": "7. School/DATA 621 Data Mining/Classes - 2022/Week 7 - Variable Selection + Shrinkage.md"}
+{"id": 119, "text": "7. School/DATA 621 Data Mining/Classes - 2022/Week 6 - Multiple LR - Diagnostics & Transforms.md"}
+{"id": 120, "text": "7. School/DATA 621 Data Mining/Classes - 2022/Week 5 - Multiple LR - Missing Data.md"}
+{"id": 121, "text": "7. School/DATA 621 Data Mining/Classes - 2022/Week 4 - Simple LR - Diagnostics & Transforms.md"}
+{"id": 122, "text": "7. School/DATA 621 Data Mining/Classes - 2022/Week 3 - Simple LR - Infer Predict Explain.md"}
+{"id": 123, "text": "7. School/DATA 621 Data Mining/Classes - 2022/Week 2 - Simple LR - Estimation.md"}
+{"id": 124, "text": "7. School/DATA 621 Data Mining/Classes - 2022/Week 16 - Final Week.md"}
+{"id": 125, "text": "7. School/DATA 621 Data Mining/Classes - 2022/Week 15 - Nonparametric Regression.md"}
+{"id": 126, "text": "7. School/DATA 621 Data Mining/Classes - 2022/Week 14 - Panel Regression.md"}
+{"id": 127, "text": "7. School/DATA 621 Data Mining/Classes - 2022/Week 13 - Generalized Linear Models.md"}
+{"id": 128, "text": "7. School/DATA 621 Data Mining/Classes - 2022/Week 12 - Multinomial Logistic Regression.md"}
+{"id": 129, "text": "7. School/DATA 621 Data Mining/Classes - 2022/Week 11 - Generalized LS.md"}
+{"id": 130, "text": "7. School/DATA 621 Data Mining/Classes - 2022/Week 10 - Weighted LS + Robust Regression.md"}
+{"id": 131, "text": "7. School/DATA 621 Data Mining/Classes - 2022/Week 1 - Intro to Applied Regression Modeling.md"}
+{"id": 132, "text": "7. School/DATA 621 Data Mining/Assignments - 2022/Semantic Layers.md"}
+{"id": 133, "text": "7. School/DATA 621 Data Mining/Assignments - 2022/Homework 3 - Binary Logistic Regression.md"}
+{"id": 134, "text": "7. School/DATA 621 Data Mining/Assignments - 2022/Homework 2 - Classification Metrics.md"}
+{"id": 135, "text": "7. School/DATA 621 Data Mining/Assignments - 2022/Homework 1 - Moneyball.md"}
+{"id": 136, "text": "7. School/DATA 621 Data Mining/Assignments - 2022/Final Project/WorkingNotes.md"}
+{"id": 137, "text": "7. School/DATA 621 Data Mining/Assignments - 2022/Final Project/README.md"}
+{"id": 138, "text": "7. School/DATA 621 Data Mining/Assignments - 2022/Final Project/Final Project Workfile.md"}
+{"id": 139, "text": "7. School/DATA 621 Data Mining/Assignments - 2022/Final Project/Final Project Proposal.md"}
+{"id": 140, "text": "7. School/DATA 621 Data Mining/Assignments - 2022/Final Project/Final Project Overview.md"}
+{"id": 141, "text": "7. School/DATA 621 Data Mining/Assignments - 2022/Final Project/Final Project Lit Review.md"}
+{"id": 142, "text": "7. School/DATA 621 Data Mining/Assignments - 2022/Final Project/Final Project Lit Review Notes.md"}
+{"id": 143, "text": "7. School/DATA 621 Data Mining/Assignments - 2022/Blog - Data Observability.md"}
+{"id": 144, "text": "7. School/DATA 608 Knowledge and Visual Analytics/Reading Notes - Data Practitioners Guide.md"}
+{"id": 145, "text": "7. School/DATA 608 Knowledge and Visual Analytics/Reading Notes - (ColeNuss) Storytelling with Data.md"}
+{"id": 146, "text": "7. School/DATA 608 Knowledge and Visual Analytics/Discussion 7 - Colors and Fonts.md"}
+{"id": 147, "text": "7. School/DATA 608 Knowledge and Visual Analytics/Discussion 3 - Quality Features & Climate Change Stripes.md"}
+{"id": 148, "text": "7. School/DATA 608 Knowledge and Visual Analytics/Discussion 11 - Smoothing.md"}
+{"id": 149, "text": "7. School/DATA 608 Knowledge and Visual Analytics/Data 608 - Story 7 - Strategic Minerals.md"}
+{"id": 150, "text": "7. School/DATA 608 Knowledge and Visual Analytics/DATA 608 Knowledge and Visual Analytics.md"}
+{"id": 151, "text": "7. School/DATA 608 Knowledge and Visual Analytics/DATA 608 - Story 3 - Gun Laws.md"}
+{"id": 152, "text": "7. School/DATA 608 Knowledge and Visual Analytics/DATA 608 - Story 6 - Food Security.md"}
+{"id": 153, "text": "7. School/DATA 608 Knowledge and Visual Analytics/DATA 608 - Story 5 - Temperature and Storms.md"}
+{"id": 154, "text": "7. School/DATA 608 Knowledge and Visual Analytics/DATA 608 - Story 4 - How Much Do We Get Paid?.md"}
+{"id": 155, "text": "7. School/DATA 608 Knowledge and Visual Analytics/DATA 608 - Story 2 - Federal Reserve.md"}
+{"id": 156, "text": "7. School/DATA 608 Knowledge and Visual Analytics/DATA 608 - Story 1 - Infrastructure.md"}
+{"id": 157, "text": "7. School/DATA 608 Knowledge and Visual Analytics/DATA 608 - Discussion 2 - Types of Data Visualization.md"}
+{"id": 158, "text": "7. School/DATA 608 Knowledge and Visual Analytics/DATA 608 - Discussion 12.md"}
+{"id": 159, "text": "7. School/DATA 608 Knowledge and Visual Analytics/DATA 608 - Discussion 1 - Developing a Critical Eye.md"}
+{"id": 160, "text": "7. School/DATA 607 Data Mgt/Week 10 - Natural Language Processing [25-Oct 31-Oct].md"}
+{"id": 161, "text": "7. School/DATA 607 Data Mgt/CUNY DATA 607.md"}
+{"id": 162, "text": "7. School/DATA 607 Data Mgt/DATA 607 Final Project WN.md"}
+{"id": 163, "text": "7. School/DATA 607 Data Mgt/DATA 607 - Week 10 Assignment (NLP).md"}
+{"id": 164, "text": "7. School/DATA 607 Data Mgt/CUNY DATA 607 Week 7 Assignment.md"}
+{"id": 165, "text": "7. School/DATA 607 Data Mgt/2021-11-14 DATA 607 DS In Context Presentation WN.md"}
+{"id": 166, "text": "7. School/DATA 607 Data Mgt/2021-11-15 DATA 607 Project 4 WN.md"}
+{"id": 167, "text": "7. School/DATA 607 Data Mgt/2021-11-14 DATA 607 Project Proposal WN.md"}
+{"id": 168, "text": "7. School/DATA 607 Data Mgt/2021-08-31 CUNY 607 Discussion 2.md"}
+{"id": 169, "text": "7. School/DATA 607 Data Mgt/2021-08-25 DATA 607 Class Notes.md"}
+{"id": 170, "text": "7. School/DATA 607 Data Mgt/2021-08-25 Discussion 1 - Proxy Measures.md"}
+{"id": 171, "text": "7. School/DATA 607 Data Mgt/2021-08-25 DATA 606 Class Notes.md"}
+{"id": 172, "text": "7. School/DATA 606 Statistics/CUNY Data 606 Final Exam Prep.md"}
+{"id": 173, "text": "7. School/DATA 606 Statistics/DATA 606 Final Project.md"}
+{"id": 174, "text": "7. School/DATA 606 Statistics/CUNY Backlog and Workplan.md"}
+{"id": 175, "text": "7. School/DATA 606 Statistics/2021-08-24 Data 607 Class Notes.md"}
+{"id": 176, "text": "7. School/DATA 606 Statistics/2021-11-13 DATA 606 Project Proposal WN.md"}
+{"id": 177, "text": "7. School/DATA 605 Computational Mathematics/Notes/Notes - Linear Algebra.md"}
+{"id": 178, "text": "7. School/DATA 605 Computational Mathematics/Notes/Linear Algebra/Solving Linear Systems.md"}
+{"id": 179, "text": "7. School/DATA 605 Computational Mathematics/Notes/Linear Algebra/More Matrix Fun.md"}
+{"id": 180, "text": "7. School/DATA 605 Computational Mathematics/Notes/Linear Algebra/Matrix Factorization.md"}
+{"id": 181, "text": "7. School/DATA 605 Computational Mathematics/Notes/Linear Algebra/Linear Algebra - 2. Matrix Transformations.md"}
+{"id": 182, "text": "7. School/DATA 605 Computational Mathematics/Notes/Linear Algebra/Linear Algebra - 1. Vectors.md"}
+{"id": 183, "text": "7. School/DATA 605 Computational Mathematics/Notes/Linear Algebra/LU Decomposition and Gaussian Elimination.md"}
+{"id": 184, "text": "7. School/DATA 605 Computational Mathematics/Notes/Eigenimagery.md"}
+{"id": 185, "text": "7. School/DATA 605 Computational Mathematics/Notes/Chebyshev Inequality.md"}
+{"id": 186, "text": "7. School/DATA 605 Computational Mathematics/Notes/Characteristic Functions 2.md"}
+{"id": 187, "text": "7. School/DATA 605 Computational Mathematics/Notes/Calculus/Integration by Substitution.md"}
+{"id": 188, "text": "7. School/DATA 605 Computational Mathematics/Notes/Book Notes - Intro to Linear Algebra (Strang).md"}
+{"id": 189, "text": "7. School/DATA 605 Computational Mathematics/Notes/Book Notes - First Course in Linear Algebra.md"}
+{"id": 190, "text": "7. School/DATA 605 Computational Mathematics/DATA 605 Computational Mathematics.md"}
+{"id": 191, "text": "7. School/DATA 605 Computational Mathematics/Assignments/DATA 605 - Week 12 Discussion.md"}
+{"id": 192, "text": "7. School/DATA 605 Computational Mathematics/Assignments/DATA 605 - Homework 5 - Probability.md"}
+{"id": 193, "text": "7. School/DATA 605 Computational Mathematics/Assignments/DATA 605 - Homework 1.md"}
+{"id": 194, "text": "7. School/DATA 605 Computational Mathematics/Assignments/DATA 605 - Homework 04 - Eigenimagery.md"}
+{"id": 195, "text": "7. School/DATA 605 Computational Mathematics/Assignments/DATA 605 - Final Project.md"}
+{"id": 196, "text": "7. School/DATA 605 Computational Mathematics/Assignments/DATA 505 - Homework 12.md"}
+{"id": 197, "text": "7. School/DATA 604 Simulation/Reading & Discussions/W7 - Final Project.md"}
+{"id": 198, "text": "7. School/DATA 604 Simulation/Reading & Discussions/W6 - Optimization.md"}
+{"id": 199, "text": "7. School/DATA 604 Simulation/Reading & Discussions/W5 - Case Studies.md"}
+{"id": 200, "text": "7. School/DATA 604 Simulation/Reading & Discussions/W4 - Prediction & Analysis.md"}
+{"id": 201, "text": "7. School/DATA 604 Simulation/Reading & Discussions/W3 - Growth Models.md"}
+{"id": 202, "text": "7. School/DATA 604 Simulation/Reading & Discussions/W2 - Population Models.md"}
+{"id": 203, "text": "7. School/DATA 604 Simulation/DATA 604 Simulation.md"}
+{"id": 204, "text": "7. School/DATA 604 Simulation/Notes/SymPy - Symbolic Computation.md"}
+{"id": 205, "text": "7. School/DATA 604 Simulation/Notes/SimPy - Simulation.md"}
+{"id": 206, "text": "7. School/DATA 604 Simulation/Notes/Rainwater Harvesting Simulation.md"}
+{"id": 207, "text": "7. School/DATA 604 Simulation/Notes/Pint - Computation with Units.md"}
+{"id": 208, "text": "7. School/DATA 604 Simulation/Notes/HW Notes.md"}
+{"id": 209, "text": "7. School/DATA 604 Simulation/Notes/Difference Equations.md"}
+{"id": 210, "text": "7. School/DATA 604 Simulation/Notes/Class 2024-06-11.md"}
+{"id": 211, "text": "7. School/DATA 604 Simulation/Final Project/Final Project - Statistical Analysis.md"}
+{"id": 212, "text": "7. School/DATA 604 Simulation/Final Project/Final Project - Research.md"}
+{"id": 213, "text": "7. School/DATA 604 Simulation/Final Project/Final Project - Models on the Road.md"}
+{"id": 214, "text": "7. School/DATA 604 Simulation/Final Project/Final Project - Ideas.md"}
+{"id": 215, "text": "7. School/DATA 604 Simulation/Final Project/Final Project - Flowchart.md"}
+{"id": 216, "text": "7. School/DATA 604 Simulation/Final Project/Final Project - EV Charging Networks.md"}
+{"id": 217, "text": "7. School/DATA 604 Simulation/Final Project/Final Project - Build.md"}
+{"id": 218, "text": "7. School/DATA 604 Simulation/Class Notes.md"}
+{"id": 219, "text": "7. School/DATA 602 Adv Programming/DATA 602 Adv Programming.md"}
+{"id": 220, "text": "7. School/DATA 602 Adv Programming/Assignments/Final Project Proposal.md"}
+{"id": 221, "text": "7. School/DATA 602 Adv Programming/Assignments/Final Project Proposal Draft.md"}
+{"id": 222, "text": "7. School/DATA 602 Adv Programming/Assignments/Final Project Notes.md"}
+{"id": 223, "text": "7. School/CUNY Current Isssues Log.md"}
+{"id": 224, "text": "6. Personal/Reference/fast.ai/fast.ai.md"}
+{"id": 225, "text": "6. Personal/Reference/fast.ai/fast.ai basics.md"}
+{"id": 226, "text": "6. Personal/Reference/fast.ai/DataLoaders.md"}
+{"id": 227, "text": "6. Personal/Reference/fast.ai/DataBlocks.md"}
+{"id": 228, "text": "6. Personal/Reference/To Be Filed/Tensorflow Overall Concepts & Definitions.md"}
+{"id": 229, "text": "6. Personal/Reference/To Be Filed/Representation.md"}
+{"id": 230, "text": "6. Personal/Reference/To Be Filed/Boruta explained exactly how you wished someone explained it to you.md"}
+{"id": 231, "text": "6. Personal/Reference/Statistics/Understanding Boxplots.md"}
+{"id": 232, "text": "6. Personal/Reference/Statistics/Sampling Distributions & Hypothesis Testing in R.md"}
+{"id": 233, "text": "6. Personal/Reference/Statistics/Power and Sample Size.md"}
+{"id": 234, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/references/resources.md"}
+{"id": 235, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/references/logarithms.md"}
+{"id": 236, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/references/definitions.md"}
+{"id": 237, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/references/calculating-stats-in-excel.md"}
+{"id": 238, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/9-multiple-and-logistic-regression/9.5-intro-logistic-regression.md"}
+{"id": 239, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/9-multiple-and-logistic-regression/9.4-multiple-regression-case-study.md"}
+{"id": 240, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/9-multiple-and-logistic-regression/9.3-checking-model-conditions-using-graphs.md"}
+{"id": 241, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/9-multiple-and-logistic-regression/9.2-model-selection.md"}
+{"id": 242, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/9-multiple-and-logistic-regression/9.1-intro-multiple-regression.md"}
+{"id": 243, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/8-intro-to-linear-regression/8.4-inference-for-linear-regression.md"}
+{"id": 244, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/8-intro-to-linear-regression/8.3-types-of-outliers-in-linear-regression.md"}
+{"id": 245, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/8-intro-to-linear-regression/8.2-least-squares-regression.md"}
+{"id": 246, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/8-intro-to-linear-regression/8.1-fitting-line-residuals-correlation.md"}
+{"id": 247, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/7-inference-for-numerical-data/7.5-comparing-many-means-with-anova.md"}
+{"id": 248, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/7-inference-for-numerical-data/7.4-power-calculations-for-a-difference-of-means.md"}
+{"id": 249, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/7-inference-for-numerical-data/7.3-difference-of-two-means.md"}
+{"id": 250, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/7-inference-for-numerical-data/7.2-paired-data.md"}
+{"id": 251, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/7-inference-for-numerical-data/7.1-one-sample-means-t-dist.md"}
+{"id": 252, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/6-inference-for-categorical-data/6.4-testing-for-independence-in-two-way-tables.md"}
+{"id": 253, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/6-inference-for-categorical-data/6.3-testing-for-goodness-of-fit-with-chi-square.md"}
+{"id": 254, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/6-inference-for-categorical-data/6.2-difference-of-two-proportions.md"}
+{"id": 255, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/6-inference-for-categorical-data/6.1-inference-single-proportion.md"}
+{"id": 256, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/5-foundations-for-inference/5.3-hypothesis-testing.md"}
+{"id": 257, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/5-foundations-for-inference/5.2-confidence-intervals.md"}
+{"id": 258, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/5-foundations-for-inference/5.1-point-estimates-variability.md"}
+{"id": 259, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/4-distributions-of-random-variables/4.5-poisson-distribution.md"}
+{"id": 260, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/4-distributions-of-random-variables/4.4-negative-binomial.md"}
+{"id": 261, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/4-distributions-of-random-variables/4.3-binomial-distribution.md"}
+{"id": 262, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/4-distributions-of-random-variables/4.2-geometric-distribution.md"}
+{"id": 263, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/4-distributions-of-random-variables/4.1-normal-distribution.md"}
+{"id": 264, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/3-probability/3.5-continuous-distributions.md"}
+{"id": 265, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/3-probability/3.4-random-variables.md"}
+{"id": 266, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/3-probability/3.3-sampling-from-small-population.md"}
+{"id": 267, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/3-probability/3.2-conditional-probability.md"}
+{"id": 268, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/3-probability/3.1-defining-probability.md"}
+{"id": 269, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/2-summarizing-data/2.2-categorical-data.md"}
+{"id": 270, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/2-summarizing-data/2.1-numerical-data.md"}
+{"id": 271, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/1-intro-to-data/chapter-1-exercises.md"}
+{"id": 272, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/1-intro-to-data/1.4-experiments.md"}
+{"id": 273, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/1-intro-to-data/1.3-sampling-principles.md"}
+{"id": 274, "text": "6. Personal/Reference/Statistics/OpenIntro Statistics/1-intro-to-data/1.2-data-basics.md"}
+{"id": 275, "text": "6. Personal/Reference/Statistics/Normality of Error.md"}
+{"id": 276, "text": "6. Personal/Reference/Statistics/Missing Data.md"}
+{"id": 277, "text": "6. Personal/Reference/Statistics/Linearity.md"}
+{"id": 278, "text": "6. Personal/Reference/Statistics/Independence of Errors.md"}
+{"id": 279, "text": "6. Personal/Reference/Statistics/Homoscedasticity.md"}
+{"id": 280, "text": "6. Personal/Reference/Statistics/Causal Inference - The Mixtape.md"}
+{"id": 281, "text": "6. Personal/Reference/Recommender Systems & the Amplification of Extremist Content.md"}
+{"id": 282, "text": "6. Personal/Reference/Most Important ...md"}
+{"id": 283, "text": "6. Personal/Reference/Media + Marketing/media-buying/to-dos.md"}
+{"id": 284, "text": "6. Personal/Reference/Media + Marketing/media-buying/terms-and-definitions.md"}
+{"id": 285, "text": "6. Personal/Reference/Media + Marketing/media-buying/roadmap.md"}
+{"id": 286, "text": "6. Personal/Reference/Media + Marketing/media-buying/resource-list.md"}
+{"id": 287, "text": "6. Personal/Reference/Media + Marketing/media-buying/people.md"}
+{"id": 288, "text": "6. Personal/Reference/Media + Marketing/media-buying/measurement-vendors.md"}
+{"id": 289, "text": "6. Personal/Reference/Media + Marketing/media-buying/kpis.md"}
+{"id": 290, "text": "6. Personal/Reference/Media + Marketing/media-buying/document-review.md"}
+{"id": 291, "text": "6. Personal/Reference/Media + Marketing/media-buying/SUMMARY.md"}
+{"id": 292, "text": "6. Personal/Reference/Media + Marketing/media-buying/README.md"}
+{"id": 293, "text": "6. Personal/Reference/Media + Marketing/marketing-mix-models-mmm.md"}
+{"id": 294, "text": "6. Personal/Reference/Media + Marketing/floc.md"}
+{"id": 295, "text": "6. Personal/Reference/Media + Marketing/customer-lifetime-value-clv.md"}
+{"id": 296, "text": "6. Personal/Reference/Media + Marketing/cohort-analysis.md"}
+{"id": 297, "text": "6. Personal/Reference/Media + Marketing/attribution-modeling.md"}
+{"id": 298, "text": "6. Personal/Reference/Media + Marketing/advertising-adstock.md"}
+{"id": 299, "text": "6. Personal/Reference/Media + Marketing/VAST and VPAID tags.md"}
+{"id": 300, "text": "6. Personal/Reference/Math/Partial Derivative.md"}
+{"id": 301, "text": "6. Personal/Reference/Math/Calculus.md"}
+{"id": 302, "text": "6. Personal/Reference/Jason Byers - Propensity Score Analysis Lecture.md"}
+{"id": 303, "text": "6. Personal/Reference/Enhancing long tail item recommendation in collaborative filtering.md"}
+{"id": 304, "text": "6. Personal/Reference/Developing in OpenAPI.md"}
+{"id": 305, "text": "6. Personal/Reference/Defining and Characterizing Reward Hacking.md"}
+{"id": 306, "text": "6. Personal/Reference/Data Engineering/DBT - Getting Started.md"}
+{"id": 307, "text": "6. Personal/Reference/Analytics/Tableau/Tableau Prep Automation - The Hard Way (Mac).md"}
+{"id": 308, "text": "6. Personal/Reference/Analytics/Tableau/Tableau - Filter Hierarchy.md"}
+{"id": 309, "text": "6. Personal/Reference/Analytics/Tableau/Sets.md"}
+{"id": 310, "text": "6. Personal/Reference/Analytics/Tableau/Level of Detail (LOD) Expressions.md"}
+{"id": 311, "text": "6. Personal/Reference/Analytics/Tableau/Incremental Refreshes.md"}
+{"id": 312, "text": "6. Personal/Reference/Analytics/Tableau/How to Create a Correlation Coefficient in Tableau.md"}
+{"id": 313, "text": "6. Personal/Reference/Analytics/Tableau/Google Sheet as Data Source.md"}
+{"id": 314, "text": "6. Personal/Reference/Analytics/Tableau/Filter to Latest Date.md"}
+{"id": 315, "text": "6. Personal/Reference/Analytics/Tableau/Dimension Aggregations.md"}
+{"id": 316, "text": "6. Personal/Reference/Analytics/Tableau/Date Functions.md"}
+{"id": 317, "text": "6. Personal/Reference/Analytics/Tableau/Date Filter while preserving data.md"}
+{"id": 318, "text": "6. Personal/Reference/Analytics/Tableau/Date Comparison.md"}
+{"id": 319, "text": "6. Personal/Reference/Analytics/Tableau/Data Union.md"}
+{"id": 320, "text": "6. Personal/Reference/Analytics/Tableau/Data Splits.md"}
+{"id": 321, "text": "6. Personal/Reference/Analytics/Tableau/Data Blends.md"}
+{"id": 322, "text": "6. Personal/Reference/Analytics/Tableau/Context Filters.md"}
+{"id": 323, "text": "6. Personal/Reference/Analytics/Tableau/Analytics Conference 2019-08-20.md"}
+{"id": 324, "text": "6. Personal/Reference/Analytics/SEO/ScreamingFrog.md"}
+{"id": 325, "text": "6. Personal/Reference/Analytics/Roku/Roku.md"}
+{"id": 326, "text": "6. Personal/Reference/Analytics/Google Marketing/Search Ads 360.md"}
+{"id": 327, "text": "6. Personal/Reference/Analytics/Google Marketing/Google My Business.md"}
+{"id": 328, "text": "6. Personal/Reference/Analytics/Google Marketing/Campaign Manager.md"}
+{"id": 329, "text": "6. Personal/Reference/Analytics/Google Analytics/Google Analytics - Session ID.md"}
+{"id": 330, "text": "6. Personal/Reference/Analytics/Google Analytics/GA Custom Dimension.md"}
+{"id": 331, "text": "6. Personal/Reference/Analytics/Apple/Apple Search Ads - Overview.md"}
+{"id": 332, "text": "6. Personal/Reference/Analytics/API/Twitter API.md"}
+{"id": 333, "text": "6. Personal/Reference/Analytics/API/Pinterest API.md"}
+{"id": 334, "text": "6. Personal/Reference/Analytics/API/Iterable API.md"}
+{"id": 335, "text": "6. Personal/Reference/Analytics/API/Callrail API.md"}
+{"id": 336, "text": "6. Personal/Reference/Analytics/API/Apple App Store API.md"}
+{"id": 337, "text": "6. Personal/Reference/Analytics/API/AppTweak API.md"}
+{"id": 338, "text": "6. Personal/Reference/A Survey of Long-Tail Item Recommendation Methods.md"}
+{"id": 339, "text": "6. Personal/Reference/A Brief History of Netflix Personalization.md"}
+{"id": 340, "text": "6. Personal/Projects/MMM/MMM - Robyn.md"}
+{"id": 341, "text": "6. Personal/Projects/MMM/MMM - Project Overview.md"}
+{"id": 342, "text": "6. Personal/Projects/Delphi/Skyblock.md"}
+{"id": 343, "text": "6. Personal/Projects/Delphi/PlayerWipe.md"}
+{"id": 344, "text": "6. Personal/Projects/Delphi/Minecraft 2024 Development.md"}
+{"id": 345, "text": "6. Personal/Projects/Delphi/Delphi Survival Deluxe.md"}
+{"id": 346, "text": "6. Personal/Projects/Delphi/Delphi Server Specs.md"}
+{"id": 347, "text": "6. Personal/Projects/Delphi/Delphi Server Settings 2024.md"}
+{"id": 348, "text": "6. Personal/Projects/Delphi/Delphi Development Log.md"}
+{"id": 349, "text": "6. Personal/Projects/Delphi/Delphi Concept - 1Chunk.md"}
+{"id": 350, "text": "6. Personal/Projects/Delphi/Delphi 2023 Improvements.md"}
+{"id": 351, "text": "6. Personal/Projects/Delphi/Delphi - 1.18 Migration 202112.md"}
+{"id": 352, "text": "6. Personal/Projects/Delphi/2024-08-10 1.21 Updates.md"}
+{"id": 353, "text": "6. Personal/Projects/Delphi/2021-08-23 Delphi Server Migration.md"}
+{"id": 354, "text": "6. Personal/Projects/Delphi/2021-08-20 Delphi Fabric Mods.md"}
+{"id": 355, "text": "6. Personal/Projects/Delphi/1.18 configurations.md"}
+{"id": 356, "text": "6. Personal/Projects/Delphi/1.18 World Transition.md"}
+{"id": 357, "text": "6. Personal/Notes/research/Work Breakdown Structure.md"}
+{"id": 358, "text": "6. Personal/Notes/research/What is the Difference Between a Benchmark and a KPI.md"}
+{"id": 359, "text": "6. Personal/Notes/research/What is behind the influencer campaign against Biontech.md"}
+{"id": 360, "text": "6. Personal/Notes/research/We Have to Completely Relearn Marketing Measurement.md"}
+{"id": 361, "text": "6. Personal/Notes/research/Vector Search.md"}
+{"id": 362, "text": "6. Personal/Notes/research/Twitter - Network Analysis of Tunisia Disinformation Campaigns.md"}
+{"id": 363, "text": "6. Personal/Notes/research/Trollfare: Russia's Disinformation Campaign During Military Conflict in Ukraine.md"}
+{"id": 364, "text": "6. Personal/Notes/research/Trollfare: How to Recognize and Fight Off Online Psyops.md"}
+{"id": 365, "text": "6. Personal/Notes/research/This Big Tech group tried to redefine violent extremism. It got messy..md"}
+{"id": 366, "text": "6. Personal/Notes/research/The Stealthy Politics of Urban Advertising.md"}
+{"id": 367, "text": "6. Personal/Notes/research/The Russian \"Firehose of Falsehood\" Propaganda Model.md"}
+{"id": 368, "text": "6. Personal/Notes/research/The MAD Model of Social Contagion.md"}
+{"id": 369, "text": "6. Personal/Notes/research/The IRA, Social Media and Political Polarization in the United States, 2012-2018.md"}
+{"id": 370, "text": "6. Personal/Notes/research/The Greatest Sales Deck I've Ever Seen.md"}
+{"id": 371, "text": "6. Personal/Notes/research/The Benefits of Having a Sense of Purpose.md"}
+{"id": 372, "text": "6. Personal/Notes/research/Testing Models of Social Learning on Networks.md"}
+{"id": 373, "text": "6. Personal/Notes/research/TV Advertising Effectiveness and Profitability - Generalizable Results From 288 Brands.md"}
+{"id": 374, "text": "6. Personal/Notes/research/Stewardship of Global Collective Behavior.md"}
+{"id": 375, "text": "6. Personal/Notes/research/Social Learning.md"}
+{"id": 376, "text": "6. Personal/Notes/research/Russia's Reflexive Control Theory and the Military.md"}
+{"id": 377, "text": "6. Personal/Notes/research/Reflexive Control.md"}
+{"id": 378, "text": "6. Personal/Notes/research/Reference.md"}
+{"id": 379, "text": "6. Personal/Notes/research/Privacy Sandbox Timeline.md"}
+{"id": 380, "text": "6. Personal/Notes/research/Mathematical Models of Social Learning.md"}
+{"id": 381, "text": "6. Personal/Notes/research/Managing Knowledge.md"}
+{"id": 382, "text": "6. Personal/Notes/research/It's Not Funny Anymore - Far-Right Extremist's Use of Humour.md"}
+{"id": 383, "text": "6. Personal/Notes/research/Industrialized Disinformation.md"}
+{"id": 384, "text": "6. Personal/Notes/research/IRA for Hire - Double Deceit.md"}
+{"id": 385, "text": "6. Personal/Notes/research/How to avoid machine learning pitfalls: a guide for academic researchers.md"}
+{"id": 386, "text": "6. Personal/Notes/research/How to Measure Anything.md"}
+{"id": 387, "text": "6. Personal/Notes/research/How Disinformation Evolved in 2020.md"}
+{"id": 388, "text": "6. Personal/Notes/research/Essays on Data Science.md"}
+{"id": 389, "text": "6. Personal/Notes/research/Cultivating Your Purpose.md"}
+{"id": 390, "text": "6. Personal/Notes/research/Commercial Contracts.md"}
+{"id": 391, "text": "6. Personal/Notes/research/COVID-19 Vaccine Hesitancy on Social Media: Building a Public Twitter Data Set of Antivaccine Content, Vaccine Misinformation, and Conspiracies.md"}
+{"id": 392, "text": "6. Personal/Notes/research/Anti-Vax Tweet Dataset.md"}
+{"id": 393, "text": "6. Personal/Notes/research/A US PR Firm Steps into Contested Elections.md"}
+{"id": 394, "text": "6. Personal/Notes/research/A Mathematical Theory of Communication.md"}
+{"id": 395, "text": "6. Personal/Notes/research/3 Facts about Time Series Forecasting that surprise experienced ML practitioners.md"}
+{"id": 396, "text": "6. Personal/Notes/research/2021-08-28 Steve Jobs \"Have to start with the customer\".md"}
+{"id": 397, "text": "6. Personal/Notes/research/030 Research.md"}
+{"id": 398, "text": "6. Personal/Notes/business/Business Ideas.md"}
+{"id": 399, "text": "6. Personal/Notes/business/AI Task Manager.md"}
+{"id": 400, "text": "6. Personal/Notes/Spas.md"}
+{"id": 401, "text": "6. Personal/Notes/Passport.md"}
+{"id": 402, "text": "6. Personal/Notes/Mattermost.md"}
+{"id": 403, "text": "6. Personal/Notes/Home Finances/PSLF Form.md"}
+{"id": 404, "text": "6. Personal/Notes/Home Finances/401 and HSA Accounts.md"}
+{"id": 405, "text": "6. Personal/Notes/Health/BPD.md"}
+{"id": 406, "text": "6. Personal/Notes/Data Council 2023/Unit Testing for DS Code.md"}
+{"id": 407, "text": "6. Personal/Notes/Data Council 2023/Time to Reimagine Data Interactions.md"}
+{"id": 408, "text": "6. Personal/Notes/Data Council 2023/Time Series Forecasting & Deployment.md"}
+{"id": 409, "text": "6. Personal/Notes/Data Council 2023/This App Ends Tantrums.md"}
+{"id": 410, "text": "6. Personal/Notes/Data Council 2023/Streaming Analytics with dbt  (Materialize).md"}
+{"id": 411, "text": "6. Personal/Notes/Data Council 2023/Riot Games.md"}
+{"id": 412, "text": "6. Personal/Notes/Data Council 2023/Real-Life OpenAI Case.md"}
+{"id": 413, "text": "6. Personal/Notes/Data Council 2023/Publishing Jup notebooks with Quarto.md"}
+{"id": 414, "text": "6. Personal/Notes/Data Council 2023/MBUE Architectual Drawing.md"}
+{"id": 415, "text": "6. Personal/Notes/Data Council 2023/LLMs and Semantic Layer.md"}
+{"id": 416, "text": "6. Personal/Notes/Data Council 2023/Integrating Data People into your App Dev Workflows.md"}
+{"id": 417, "text": "6. Personal/Notes/Data Council 2023/Generative AI for Product Builders.md"}
+{"id": 418, "text": "6. Personal/Notes/Data Council 2023/Generative AI and Search.md"}
+{"id": 419, "text": "6. Personal/Notes/Data Council 2023/Generative AI + Natural Language Interface.md"}
+{"id": 420, "text": "6. Personal/Notes/Data Council 2023/Evolving AI Laws.md"}
+{"id": 421, "text": "6. Personal/Notes/Data Council 2023/Designing for Intelligence at GitHub Next.md"}
+{"id": 422, "text": "6. Personal/Notes/Data Council 2023/Datahub Workshop.md"}
+{"id": 423, "text": "6. Personal/Notes/Data Council 2023/Data Council 2023.md"}
+{"id": 424, "text": "6. Personal/Notes/Data Council 2023/DC2023 General Notes.md"}
+{"id": 425, "text": "6. Personal/Notes/Data Council 2023/Accelerate Enterprise Adoption of AI.md"}
+{"id": 426, "text": "6. Personal/Notes/20 Practical Ways to Implement Data Science in Marketing.md"}
+{"id": 427, "text": "6. Personal/Notes/AI Prompts/AI Prompting.md"}
+{"id": 428, "text": "6. Personal/Notes/AI Prompts/AI Prompt - Subject Intro.md"}
+{"id": 429, "text": "6. Personal/Notes/AI Prompts/AI Prompt - STAR Summaries.md"}
+{"id": 430, "text": "6. Personal/Notes/AI Prompts/AI Prompt - Rewrite in my Voice.md"}
+{"id": 431, "text": "6. Personal/Notes/AI Prompts/AI Prompt - Problem Solver.md"}
+{"id": 432, "text": "6. Personal/Notes/AI Prompts/AI Prompt - Data Science Help.md"}
+{"id": 433, "text": "6. Personal/Notes/AI Prompts/AI Prompt - DBT.md"}
+{"id": 434, "text": "6. Personal/Notes/AI Prompts/AI Prompt - Cover Letter.md"}
+{"id": 435, "text": "6. Personal/Notes/AI Prompts/AI Prompt - Condense Job Duties.md"}
+{"id": 436, "text": "6. Personal/Notes/AI Prompts/AI Prompt - Coding Help.md"}
+{"id": 437, "text": "6. Personal/Notes/AI Prompts/AI Prompt - Blog Post.md"}
+{"id": 438, "text": "6. Personal/Notes/AI Prompts/AI Prompt - Best Tech Recruiters.md"}
+{"id": 439, "text": "6. Personal/Notes/AI Prompts/AI Prompt - Best Tech Recruiters 2.md"}
+{"id": 440, "text": "6. Personal/Notes/2021-07-17 Making my Digital Zettelkasten.md"}
+{"id": 441, "text": "6. Personal/Notes/090 Projects.md"}
+{"id": 442, "text": "6. Personal/Music/Prospect Park Concert.md"}
+{"id": 443, "text": "6. Personal/Music/The Album/Tracks.md"}
+{"id": 444, "text": "6. Personal/Music/The Album/The Album with a Title ... Process.md"}
+{"id": 445, "text": "6. Personal/Music/The Album/Concepts and Lyrical Snippets.md"}
+{"id": 446, "text": "6. Personal/Music/The Album/A Musical Skeleton.md"}
+{"id": 447, "text": "6. Personal/Music/The Album/2017-07-17 Postrock Suite.md"}
+{"id": 448, "text": "6. Personal/Music/Scarlatti - Salve Regina in A Minor.md"}
+{"id": 449, "text": "6. Personal/Music/Practice Journals/Practice Routine Structure.md"}
+{"id": 450, "text": "6. Personal/Music/Practice Journals/Practice Journals 2024.md"}
+{"id": 451, "text": "6. Personal/Music/Practice Journals/Practice Journals 2022.md"}
+{"id": 452, "text": "6. Personal/Music/Practice Journals/Practice Journal 2023-11-05.md"}
+{"id": 453, "text": "6. Personal/Music/Equipment.md"}
+{"id": 454, "text": "6. Personal/Music/Peter Bernstein lesson videos.md"}
+{"id": 455, "text": "6. Personal/Music/NYC Guitar Shops & Luthiers.md"}
+{"id": 456, "text": "6. Personal/Music/Effects.md"}
+{"id": 457, "text": "6. Personal/Music/Comeback Tour.md"}
+{"id": 458, "text": "6. Personal/Music/Drum Grooves.md"}
+{"id": 459, "text": "6. Personal/Music/ChatGPT Prompts - Music.md"}
+{"id": 460, "text": "6. Personal/Music/Bitwig Studio Training.md"}
+{"id": 461, "text": "6. Personal/Journal/2024-08-05 Journal.md"}
+{"id": 462, "text": "6. Personal/Journal/2024-06-10 The Lost Horse.md"}
+{"id": 463, "text": "6. Personal/Journal/2024-03-10 Journal.md"}
+{"id": 464, "text": "6. Personal/Journal/2023-05-20 Journal.md"}
+{"id": 465, "text": "6. Personal/Journal/2023-05-19 Journal.md"}
+{"id": 466, "text": "6. Personal/Journal/2023-05-18 Journal.md"}
+{"id": 467, "text": "6. Personal/Journal/2022-06-14 Journal.md"}
+{"id": 468, "text": "6. Personal/Journal/2022-06-14 Journal 2.md"}
+{"id": 469, "text": "6. Personal/Journal/2022-04-10 Journal.md"}
+{"id": 470, "text": "6. Personal/Journal/2022-02-02 Journal.md"}
+{"id": 471, "text": "6. Personal/Journal/2022-01-12 Journal.md"}
+{"id": 472, "text": "6. Personal/Journal/2021-12-16 Journal.md"}
+{"id": 473, "text": "6. Personal/Journal/2021-11-25 Journal.md"}
+{"id": 474, "text": "6. Personal/Journal/2021-11-22 Journal.md"}
+{"id": 475, "text": "6. Personal/Journal/2021-11-01 Centering.md"}
+{"id": 476, "text": "6. Personal/Journal/2021-09-01 Journal.md"}
+{"id": 477, "text": "6. Personal/Journal/2021-09-01 Dr Wilson Appt.md"}
+{"id": 478, "text": "6. Personal/Journal/2021-08-31 Journal.md"}
+{"id": 479, "text": "6. Personal/Journal/2021-08-28 Journal.md"}
+{"id": 480, "text": "6. Personal/Journal/2021-08-15 Journal.md"}
+{"id": 481, "text": "6. Personal/Journal/2021-08-11 Journal.md"}
+{"id": 482, "text": "6. Personal/Journal/2021-08-09 Journal.md"}
+{"id": 483, "text": "6. Personal/Journal/2021-08-07 Journal.md"}
+{"id": 484, "text": "6. Personal/Journal/2021-08-05 Journal.md"}
+{"id": 485, "text": "6. Personal/Journal/2021-07-28 Journal.md"}
+{"id": 486, "text": "6. Personal/Journal/2021-04-11 Journal.md"}
+{"id": 487, "text": "6. Personal/Journal/2021-04-08 Mental Toughness Resilience.md"}
+{"id": 488, "text": "6. Personal/Journal/2021-04-06 Journal.md"}
+{"id": 489, "text": "6. Personal/Journal/2021-04-03 Journal.md"}
+{"id": 490, "text": "6. Personal/Journal/2021-04-01 Journal.md"}
+{"id": 491, "text": "6. Personal/Journal/2021-03-30 Journal.md"}
+{"id": 492, "text": "6. Personal/Journal/2021-03-26 Thoughts on Planning.md"}
+{"id": 493, "text": "6. Personal/Journal/2021-03-26 Thoughts on Friendship.md"}
+{"id": 494, "text": "6. Personal/Journal/2021-03-26 Thoughts on Career.md"}
+{"id": 495, "text": "6. Personal/Journal/2021-03-26 STOP SKILL.md"}
+{"id": 496, "text": "6. Personal/Journal/2021-03-26 Open Body Open Mind.md"}
+{"id": 497, "text": "6. Personal/Journal/2021-03-26 Journal.md"}
+{"id": 498, "text": "6. Personal/Journal/2021-03-26 Journal 2.md"}
+{"id": 499, "text": "6. Personal/Journal/2021-03-24 Journal.md"}
+{"id": 500, "text": "6. Personal/Journal/2021-03-15 Journal.md"}
+{"id": 501, "text": "6. Personal/Journal/2021-03-23 Journal.md"}
+{"id": 502, "text": "6. Personal/Journal/2021-03-22 Journal.md"}
+{"id": 503, "text": "6. Personal/Journal/2021-03-14 Journal.md"}
+{"id": 504, "text": "6. Personal/Journal/2021-03-07 Journal.md"}
+{"id": 505, "text": "6. Personal/Journal/2021-03-05 Journal.md"}
+{"id": 506, "text": "6. Personal/Journal/2021-03-02 Journal.md"}
+{"id": 507, "text": "6. Personal/Journal/2021-03-01 Journal.md"}
+{"id": 508, "text": "6. Personal/Journal/2021-02-04 Journal.md"}
+{"id": 509, "text": "6. Personal/Journal/2021-02-01 Journal.md"}
+{"id": 510, "text": "6. Personal/Journal/2021-01-31 Journal.md"}
+{"id": 511, "text": "6. Personal/Journal/2021-01-22 Observations.md"}
+{"id": 512, "text": "6. Personal/Journal/2021-01-22 A Week to Reset.md"}
+{"id": 513, "text": "6. Personal/Journal/2021-01-15 DBT VA and RR.md"}
+{"id": 514, "text": "6. Personal/Journal/2021-01-05 Journal.md"}
+{"id": 515, "text": "6. Personal/Journal/2020-12-18 Journal.md"}
+{"id": 516, "text": "6. Personal/4 Admin/Templates/Meeting.md"}
+{"id": 517, "text": "6. Personal/4 Admin/Templates/Reference.md"}
+{"id": 518, "text": "6. Personal/4 Admin/Templates/Data Science.md"}
+{"id": 519, "text": "6. Personal/4 Admin/Templates/Daily.md"}
+{"id": 520, "text": "6. Personal/3 Meetings/2021-09-17 TT TItan Catchall and Taxonomy Issues.md"}
+{"id": 521, "text": "6. Personal/3 Meetings/2023-09-09 Test Meeting Note.md"}
+{"id": 522, "text": "6. Personal/3 Meetings/2022-09-16 Caitlin 1+1.md"}
+{"id": 523, "text": "6. Personal/3 Meetings/2022-09-09 Analytics Ops.md"}
+{"id": 524, "text": "6. Personal/3 Meetings/2022-09-07 Caitlin Ops Workstream.md"}
+{"id": 525, "text": "6. Personal/3 Meetings/2022-09-07 Audience Overlap Dashboard.md"}
+{"id": 526, "text": "6. Personal/3 Meetings/2022-09-07 Analytics+Strat Weekly.md"}
+{"id": 527, "text": "6. Personal/3 Meetings/2022-08-04 Executive Summary+Q2 Leading Metrics.md"}
+{"id": 528, "text": "6. Personal/3 Meetings/2022-08-01 Josh 1+1.md"}
+{"id": 529, "text": "6. Personal/3 Meetings/2022-06-13 Audience Workshop.md"}
+{"id": 530, "text": "6. Personal/3 Meetings/2022-06-09 Analytics Workstreams.md"}
+{"id": 531, "text": "6. Personal/3 Meetings/2022-05-09 Bobby 1+1.md"}
+{"id": 532, "text": "6. Personal/3 Meetings/2022-05-06 Q1 Performance Summary.md"}
+{"id": 533, "text": "6. Personal/3 Meetings/2022-05-06 Leadership Weekly.md"}
+{"id": 534, "text": "6. Personal/3 Meetings/2022-05-06 D+A External Weekly.md"}
+{"id": 535, "text": "6. Personal/3 Meetings/2022-05-05 Dashboard Release.md"}
+{"id": 536, "text": "6. Personal/3 Meetings/2022-04-27 IQVIA .md"}
+{"id": 537, "text": "6. Personal/3 Meetings/2022-04-26 Benchmarks V2 Review.md"}
+{"id": 538, "text": "6. Personal/3 Meetings/2022-04-25 Trulicity MML Testing.md"}
+{"id": 539, "text": "6. Personal/3 Meetings/2022-04-21 DG and Analytics Coordination.md"}
+{"id": 540, "text": "6. Personal/3 Meetings/2022-04-20 Dotan.md"}
+{"id": 541, "text": "6. Personal/3 Meetings/2022-04-19 Project Ombre Kickoff.md"}
+{"id": 542, "text": "6. Personal/3 Meetings/2022-04-18 Benchmarking Sync with Lilly team.md"}
+{"id": 543, "text": "6. Personal/3 Meetings/2022-04-15 Weekly Leadership.md"}
+{"id": 544, "text": "6. Personal/3 Meetings/2022-04-15 Lilly Weekly D+A Check-In.md"}
+{"id": 545, "text": "6. Personal/3 Meetings/2022-04-15 Analytics Daily Standup.md"}
+{"id": 546, "text": "6. Personal/3 Meetings/2022-04-14 VideoAmp Dashboard Intro.md"}
+{"id": 547, "text": "6. Personal/3 Meetings/2022-04-12 Brand Safety Kickoff.md"}
+{"id": 548, "text": "6. Personal/3 Meetings/2022-04-12 Analytics+Strategy Weekly.md"}
+{"id": 549, "text": "6. Personal/3 Meetings/2022-04-11 VideoAmp Introduction.md"}
+{"id": 550, "text": "6. Personal/3 Meetings/2022-04-11 Verzenio Pamela Test Internal.md"}
+{"id": 551, "text": "6. Personal/3 Meetings/2022-04-11 Trulicity Monthly Internal Pre-Read Mar 2022.md"}
+{"id": 552, "text": "6. Personal/3 Meetings/2022-04-11 The Trade Desk Orientation.md"}
+{"id": 553, "text": "6. Personal/3 Meetings/2022-04-11 Quality Attention Sync.md"}
+{"id": 554, "text": "6. Personal/3 Meetings/2022-04-11 IQVIA Weekly.md"}
+{"id": 555, "text": "6. Personal/3 Meetings/2022-04-11 Display Dashboard QA.md"}
+{"id": 556, "text": "6. Personal/3 Meetings/2022-04-05 VideoAmp Internal.md"}
+{"id": 557, "text": "6. Personal/3 Meetings/2022-03-22 Measurement Plan Presentation .md"}
+{"id": 558, "text": "6. Personal/3 Meetings/2022-03-07 Dotan+Josh .md"}
+{"id": 559, "text": "6. Personal/3 Meetings/2022-03-03 Ways of Working.md"}
+{"id": 560, "text": "6. Personal/3 Meetings/2022-03-03 Dotan.md"}
+{"id": 561, "text": "6. Personal/3 Meetings/2022-03-03 Analytics+Strategy .md"}
+{"id": 562, "text": "6. Personal/3 Meetings/2022-03-02 Josh 1+1.md"}
+{"id": 563, "text": "6. Personal/3 Meetings/2022-03-02 Benchmarks.md"}
+{"id": 564, "text": "6. Personal/3 Meetings/2022-03-01 Trulicity MML.md"}
+{"id": 565, "text": "6. Personal/3 Meetings/2022-02-16 Lilly Meeting with Strategy.md"}
+{"id": 566, "text": "6. Personal/3 Meetings/2022-02-14 Dotan.md"}
+{"id": 567, "text": "6. Personal/3 Meetings/2022-02-11 Lilly D+A Weekly.md"}
+{"id": 568, "text": "6. Personal/3 Meetings/2022-02-10 Hena Vetere Lilly.md"}
+{"id": 569, "text": "6. Personal/3 Meetings/2022-02-07 Lilly Onboarding Mtg .md"}
+{"id": 570, "text": "6. Personal/3 Meetings/2022-02-03 Dan Gross 1+1.md"}
+{"id": 571, "text": "6. Personal/3 Meetings/2022-01-25 Interview Annie Mehal.md"}
+{"id": 572, "text": "6. Personal/3 Meetings/2022-01-19 Dotan.md"}
+{"id": 573, "text": "6. Personal/3 Meetings/2022-01-14 Dan Check-In.md"}
+{"id": 574, "text": "6. Personal/3 Meetings/2022-01-13 Dan Gross Intro.md"}
+{"id": 575, "text": "6. Personal/3 Meetings/2021-12-22 Interview with Amrita Shelar.md"}
+{"id": 576, "text": "6. Personal/3 Meetings/2021-11-24 TT Data Pipeline.md"}
+{"id": 577, "text": "6. Personal/3 Meetings/2021-11-12 Dotan Weekly.md"}
+{"id": 578, "text": "6. Personal/3 Meetings/2021-11-03 MMM Internal Regroup.md"}
+{"id": 579, "text": "6. Personal/3 Meetings/2021-11-02 D+A Leadership.md"}
+{"id": 580, "text": "6. Personal/3 Meetings/2021-11-02 Comscore Audiences.md"}
+{"id": 581, "text": "6. Personal/3 Meetings/2021-10-28 TT TT4B Small Biz Report WN.md"}
+{"id": 582, "text": "6. Personal/3 Meetings/2021-10-28 TT Reporting Manual Template WN.md"}
+{"id": 583, "text": "6. Personal/3 Meetings/2021-10-27 TT Inspire Natalie Assist.md"}
+{"id": 584, "text": "6. Personal/3 Meetings/2021-10-26 TT Abdul Check-In.md"}
+{"id": 585, "text": "6. Personal/3 Meetings/2021-10-25 TT Competitive with Jackie.md"}
+{"id": 586, "text": "6. Personal/3 Meetings/2021-10-25 TT Competitive with Brad Williams.md"}
+{"id": 587, "text": "6. Personal/3 Meetings/2021-10-21 TT Titan Discussion.md"}
+{"id": 588, "text": "6. Personal/3 Meetings/2021-10-21 TT Tech Roadmap.md"}
+{"id": 589, "text": "6. Personal/3 Meetings/2021-10-21 Melissa Deickmann.md"}
+{"id": 590, "text": "6. Personal/3 Meetings/2021-10-20 T-Journal.md"}
+{"id": 591, "text": "6. Personal/3 Meetings/2021-10-18 TT Tech Roadmap WN.md"}
+{"id": 592, "text": "6. Personal/3 Meetings/2021-10-18 TT Lise Brende Call.md"}
+{"id": 593, "text": "6. Personal/3 Meetings/2021-10-15 Ridhi Checkin.md"}
+{"id": 594, "text": "6. Personal/3 Meetings/2021-10-15 MMM Kickoff.md"}
+{"id": 595, "text": "6. Personal/3 Meetings/2021-10-14 Melissa Deickmann.md"}
+{"id": 596, "text": "6. Personal/3 Meetings/2021-10-13 TT Titan Dashboard Intro for US Team.md"}
+{"id": 597, "text": "6. Personal/3 Meetings/2021-10-13 TT Lise Brende Intro Prep.md"}
+{"id": 598, "text": "6. Personal/3 Meetings/2021-10-11 TT Weekly Status.md"}
+{"id": 599, "text": "6. Personal/3 Meetings/2021-10-11 TT MMM Internal Kickoff 2.md"}
+{"id": 600, "text": "6. Personal/3 Meetings/2021-10-08 TT Taxonomy Pre-Flight QA.md"}
+{"id": 601, "text": "6. Personal/3 Meetings/2021-10-08 TT Abdul Checkin.md"}
+{"id": 602, "text": "6. Personal/3 Meetings/2021-10-06 T-Journal.md"}
+{"id": 603, "text": "6. Personal/3 Meetings/2021-10-05 TT DoubleVerify Kickoff.md"}
+{"id": 604, "text": "6. Personal/3 Meetings/2021-10-05 DATA 607 Workplan.md"}
+{"id": 605, "text": "6. Personal/3 Meetings/2021-10-05 DATA 606 Workplan.md"}
+{"id": 606, "text": "6. Personal/3 Meetings/2021-10-04 TT Weekly Status Meetings.md"}
+{"id": 607, "text": "6. Personal/3 Meetings/2021-10-01 TT Q421 Measurement Plan Working Notes.md"}
+{"id": 608, "text": "6. Personal/3 Meetings/2021-09-30 TT Lise Brende Intro Working Notes.md"}
+{"id": 609, "text": "6. Personal/3 Meetings/2021-09-30 TT 2022 Budget Working Notes.md"}
+{"id": 610, "text": "6. Personal/3 Meetings/2021-09-30 Placement Manager Creative Taxonomy Issue.md"}
+{"id": 611, "text": "6. Personal/3 Meetings/2021-09-30 Dotan Checkin.md"}
+{"id": 612, "text": "6. Personal/3 Meetings/2021-09-29 DATA 607 Project 2.md"}
+{"id": 613, "text": "6. Personal/3 Meetings/2021-09-29 DATA 607 Discussion.md"}
+{"id": 614, "text": "6. Personal/3 Meetings/2021-09-27 TT Weekly Status Meetings.md"}
+{"id": 615, "text": "6. Personal/3 Meetings/2021-09-27 Natalie Checkin.md"}
+{"id": 616, "text": "6. Personal/3 Meetings/2021-09-24 TT Titan QA Update.md"}
+{"id": 617, "text": "6. Personal/3 Meetings/2021-09-24 TT Titan Coverage for Abdul.md"}
+{"id": 618, "text": "6. Personal/3 Meetings/2021-09-24 TT Titan Catchall QA.md"}
+{"id": 619, "text": "6. Personal/3 Meetings/2021-09-24 TT MMM Internal Kickoff.md"}
+{"id": 620, "text": "6. Personal/3 Meetings/2021-09-24 Explorer Projects.md"}
+{"id": 621, "text": "6. Personal/3 Meetings/2021-09-24 Dotan Checkin.md"}
+{"id": 622, "text": "6. Personal/3 Meetings/2021-09-23 TT MetrixLab Q4 Survey.md"}
+{"id": 623, "text": "6. Personal/3 Meetings/2021-09-23 TT Media Budget 2022.md"}
+{"id": 624, "text": "6. Personal/3 Meetings/2021-09-23 CUNY Weekly Plan.md"}
+{"id": 625, "text": "6. Personal/3 Meetings/2021-09-22 TT Redshift Working Notes.md"}
+{"id": 626, "text": "6. Personal/3 Meetings/2021-09-22 TT MMM Kickoff Prep.md"}
+{"id": 627, "text": "6. Personal/3 Meetings/2021-09-22 Dotan Checkin.md"}
+{"id": 628, "text": "6. Personal/3 Meetings/2021-09-21 ZN Explorer Projects.md"}
+{"id": 629, "text": "6. Personal/3 Meetings/2021-09-21 TT Google Data Studio Meeting.md"}
+{"id": 630, "text": "6. Personal/3 Meetings/2021-09-21 TT Google Data Studio Issue.md"}
+{"id": 631, "text": "6. Personal/3 Meetings/2021-09-21 TT Google Data Studio (DBT Prep).md"}
+{"id": 632, "text": "6. Personal/3 Meetings/2021-09-20 TT QA Working Notes.md"}
+{"id": 633, "text": "6. Personal/3 Meetings/2021-09-20 TT New Analytics Lead Prep.md"}
+{"id": 634, "text": "6. Personal/3 Meetings/2021-09-20 Dotan Checkin.md"}
+{"id": 635, "text": "6. Personal/3 Meetings/2021-09-20 TT Internal Weekly.md"}
+{"id": 636, "text": "6. Personal/3 Meetings/2021-09-20 TT Data+Analytics Weekly.md"}
+{"id": 637, "text": "6. Personal/3 Meetings/2021-09-20 TT Data Engineering Quick Sync.md"}
+{"id": 638, "text": "6. Personal/3 Meetings/2021-09-20 TT Client Weekly.md"}
+{"id": 639, "text": "6. Personal/3 Meetings/2021-09-17 TT MMM Quick Connect.md"}
+{"id": 640, "text": "6. Personal/3 Meetings/2021-09-17 TT Issues with Google Campaign Manager.md"}
+{"id": 641, "text": "6. Personal/3 Meetings/2021-09-17 D+A BI Roadmap.md"}
+{"id": 642, "text": "6. Personal/3 Meetings/2021-09-17 A Marketer's Guide to Ad Fraud Detection Companies.md"}
+{"id": 643, "text": "6. Personal/3 Meetings/2021-09-15 TT QBR Run-Through.md"}
+{"id": 644, "text": "6. Personal/3 Meetings/2021-09-16 TT QBR.md"}
+{"id": 645, "text": "6. Personal/3 Meetings/2021-09-16 Melissa Deickmann Weekly.md"}
+{"id": 646, "text": "6. Personal/3 Meetings/2021-09-16 Kenny Moy Interview.md"}
+{"id": 647, "text": "6. Personal/3 Meetings/2021-09-15 TT Fall Campaign Zenith+MetrixLab.md"}
+{"id": 648, "text": "6. Personal/3 Meetings/2021-09-15 Meeting Scripts.md"}
+{"id": 649, "text": "6. Personal/3 Meetings/2021-09-15 DATA 607 Discussion Topic.md"}
+{"id": 650, "text": "6. Personal/3 Meetings/2021-09-13 TikTok Weekly Internal Status.md"}
+{"id": 651, "text": "6. Personal/3 Meetings/2021-09-15 DATA 606 Class Notes.md"}
+{"id": 652, "text": "6. Personal/3 Meetings/2021-09-14 TT Testing Framework Training.md"}
+{"id": 653, "text": "6. Personal/3 Meetings/2021-09-13 TT Leading Indicator Client Preso.md"}
+{"id": 654, "text": "6. Personal/3 Meetings/2021-09-10 My Personal Creed of Employment.md"}
+{"id": 655, "text": "6. Personal/3 Meetings/2021-09-13 TT Goal Setting for Q4.md"}
+{"id": 656, "text": "6. Personal/3 Meetings/2021-09-10 ZN Hiring Pipeline SA Analytics.md"}
+{"id": 657, "text": "6. Personal/3 Meetings/2021-09-13 Data+Analytics Weekly.md"}
+{"id": 658, "text": "6. Personal/3 Meetings/2021-09-10 TT MMM Check-In.md"}
+{"id": 659, "text": "6. Personal/3 Meetings/2021-09-10 TT Golden Rules Media Manifesto reviiew.md"}
+{"id": 660, "text": "6. Personal/3 Meetings/2021-09-08 DATA 606 Class Notes.md"}
+{"id": 661, "text": "6. Personal/3 Meetings/2021-09-08 TT S3 and Redshift.md"}
+{"id": 662, "text": "6. Personal/3 Meetings/2021-09-08 DATA 607 Class Notes.md"}
+{"id": 663, "text": "6. Personal/3 Meetings/2021-09-08 DATA 607 Discussion.md"}
+{"id": 664, "text": "6. Personal/3 Meetings/2021-09-07 TT Titan QA Process.md"}
+{"id": 665, "text": "6. Personal/3 Meetings/2021-09-02 TT Q4 Campaign Presentation.md"}
+{"id": 666, "text": "6. Personal/3 Meetings/2021-09-04 DATA 607 Week 2 Workplan.md"}
+{"id": 667, "text": "6. Personal/3 Meetings/2021-09-02 DPS Cookieless Update.md"}
+{"id": 668, "text": "6. Personal/3 Meetings/2021-09-02 DAACS Strategies Managing Time.md"}
+{"id": 669, "text": "6. Personal/3 Meetings/2021-09-02 DAACS Scores.md"}
+{"id": 670, "text": "6. Personal/3 Meetings/2021-08-30 TT Leading Indicator Internal Review 2.md"}
+{"id": 671, "text": "6. Personal/3 Meetings/2021-09-02 DAACS Metacognition Studying.md"}
+{"id": 672, "text": "6. Personal/3 Meetings/2021-09-02 DAACS Learning Tactics.md"}
+{"id": 673, "text": "6. Personal/3 Meetings/2021-09-01 DATA 607 Class Notes.md"}
+{"id": 674, "text": "6. Personal/3 Meetings/2021-09-01 DATA 606 Class Notes.md"}
+{"id": 675, "text": "6. Personal/3 Meetings/2021-08-31 Touchpoints POE Intro.md"}
+{"id": 676, "text": "6. Personal/3 Meetings/2021-08-31 TT Tableau Request.md"}
+{"id": 677, "text": "6. Personal/3 Meetings/2021-08-31 TT Data with Marvin.md"}
+{"id": 678, "text": "6. Personal/3 Meetings/2021-08-31 DoubleVerify (DV) vs IAS Discussion.md"}
+{"id": 679, "text": "6. Personal/3 Meetings/2021-08-30 TT Leading Indicator internal review.md"}
+{"id": 680, "text": "6. Personal/3 Meetings/2021-08-31 D+A Leadership Weekly.md"}
+{"id": 681, "text": "6. Personal/3 Meetings/2021-08-30 TT Leading Indicator deck working notes.md"}
+{"id": 682, "text": "6. Personal/3 Meetings/2021-08-30 TT Leading Indicator Checkin with Teodora.md"}
+{"id": 683, "text": "6. Personal/3 Meetings/2021-08-29 TT Brand Heath Tracker Insights.md"}
+{"id": 684, "text": "6. Personal/3 Meetings/2021-08-27 Melissa Deickman Weekly Check-in.md"}
+{"id": 685, "text": "6. Personal/3 Meetings/2021-08-27 Dotan Weekly Checkin.md"}
+{"id": 686, "text": "6. Personal/3 Meetings/2021-08-26 TT Titan Catchall Kickoff.md"}
+{"id": 687, "text": "6. Personal/3 Meetings/2021-08-25 TT Leading Indicator Check-In.md"}
+{"id": 688, "text": "6. Personal/3 Meetings/2021-08-24 TT Titan Catchall Meeting.md"}
+{"id": 689, "text": "6. Personal/3 Meetings/2021-08-24 TT Research Sync for Fall Campaign.md"}
+{"id": 690, "text": "6. Personal/3 Meetings/2021-08-24 TT Leading Indicator Internal Review.md"}
+{"id": 691, "text": "6. Personal/3 Meetings/2021-08-24 D+A Leadership Weekly.md"}
+{"id": 692, "text": "6. Personal/3 Meetings/2021-08-23 TT Data+Analytics Weekly.md"}
+{"id": 693, "text": "6. Personal/3 Meetings/2021-08-20 TT Titan Business Rules.md"}
+{"id": 694, "text": "6. Personal/3 Meetings/2021-08-20 TT QBR Working Notes.md"}
+{"id": 695, "text": "6. Personal/3 Meetings/2021-08-19 Melissa Deickman Weekly Check-in.md"}
+{"id": 696, "text": "6. Personal/3 Meetings/2021-08-18 TT Leading Indicator Analysis Deck Review.md"}
+{"id": 697, "text": "6. Personal/3 Meetings/2021-08-17 TT Leading Indicator Analysis Deck Review.md"}
+{"id": 698, "text": "6. Personal/3 Meetings/2021-08-17 Dotan Checkin.md"}
+{"id": 699, "text": "6. Personal/3 Meetings/2021-08-16 VP Analytics with Ridhi.md"}
+{"id": 700, "text": "6. Personal/3 Meetings/2021-08-16 TT QBR Sync.md"}
+{"id": 701, "text": "6. Personal/3 Meetings/2021-08-16 TT Partnership Measurement.md"}
+{"id": 702, "text": "6. Personal/3 Meetings/2021-08-12 TT Media Tools Review.md"}
+{"id": 703, "text": "6. Personal/3 Meetings/2021-08-12 TT Leading Indicator Analysis with Teodora.md"}
+{"id": 704, "text": "6. Personal/3 Meetings/2021-08-12 Authentic Leadership Workshop.md"}
+{"id": 705, "text": "6. Personal/3 Meetings/2021-08-11 TT Titan Getting Up to Speed.md"}
+{"id": 706, "text": "6. Personal/3 Meetings/2021-08-11 TT MediaTools Weekly.md"}
+{"id": 707, "text": "6. Personal/3 Meetings/2021-08-10 TT Titan Self-Serve Dashboard Intro.md"}
+{"id": 708, "text": "6. Personal/3 Meetings/2021-08-10 MMM Data Inventory.md"}
+{"id": 709, "text": "6. Personal/3 Meetings/2021-08-09 TT Measurement Framework Presentation.md"}
+{"id": 710, "text": "6. Personal/3 Meetings/2021-08-09 TT Data Governance with Abdul.md"}
+{"id": 711, "text": "6. Personal/3 Meetings/2021-08-06 TT Transition with Sal.md"}
+{"id": 712, "text": "6. Personal/3 Meetings/2021-08-06 TT Leading Indicator Review.md"}
+{"id": 713, "text": "6. Personal/3 Meetings/2021-08-06 MMM Questionnaire.md"}
+{"id": 714, "text": "6. Personal/3 Meetings/2021-08-05 Wear-In Analysis with Sean.md"}
+{"id": 715, "text": "6. Personal/3 Meetings/2021-08-05 TT Media Tools regroup with Jiby.md"}
+{"id": 716, "text": "6. Personal/3 Meetings/2021-08-05 Natalie checkin.md"}
+{"id": 717, "text": "6. Personal/3 Meetings/2021-08-05 Melissa Deickman- Weekly Check-in.md"}
+{"id": 718, "text": "6. Personal/3 Meetings/2021-08-04 TT Media Tools Walkthrough.md"}
+{"id": 719, "text": "6. Personal/3 Meetings/2021-08-04 TT Data Model with Colombia.md"}
+{"id": 720, "text": "6. Personal/3 Meetings/2021-08-03 Titan Support Role Discussion.md"}
+{"id": 721, "text": "6. Personal/3 Meetings/2021-08-03 Titan GRP and CX Tool Intro.md"}
+{"id": 722, "text": "6. Personal/3 Meetings/2021-08-03 MediaTools Workbook Edits and Questions.md"}
+{"id": 723, "text": "6. Personal/3 Meetings/2021-07-30 Measurement Framework Review 1.md"}
+{"id": 724, "text": "6. Personal/3 Meetings/2021-08-02 TT Client Weekly.md"}
+{"id": 725, "text": "6. Personal/3 Meetings/2021-08-02 Measurement Framework final edits.md"}
+{"id": 726, "text": "6. Personal/3 Meetings/2021-07-29 Melissa Deickman- Weekly Check-in.md"}
+{"id": 727, "text": "6. Personal/3 Meetings/2021-07-28 D+A Weekly.md"}
+{"id": 728, "text": "6. Personal/3 Meetings/2021-07-27 Titan Weekly.md"}
+{"id": 729, "text": "6. Personal/3 Meetings/2021-07-26 TT Internal Weekly.md"}
+{"id": 730, "text": "6. Personal/3 Meetings/2021-07-27 TT Dashboard Review 2.md"}
+{"id": 731, "text": "6. Personal/3 Meetings/2021-07-27 D+A Roadmap.md"}
+{"id": 732, "text": "6. Personal/3 Meetings/2021-07-26 TT Titan Solution Manager Resource.md"}
+{"id": 733, "text": "6. Personal/3 Meetings/2021-07-26 Dev Plan review with Nick.md"}
+{"id": 734, "text": "6. Personal/3 Meetings/2021-07-13 TT Brand Metrics Client Preso.md"}
+{"id": 735, "text": "6. Personal/3 Meetings/2021-07-21 Dotan Weekly.md"}
+{"id": 736, "text": "6. Personal/3 Meetings/2021-07-15 TT Data Model Discussion.md"}
+{"id": 737, "text": "6. Personal/3 Meetings/2021-07-14 TT Testing Framework.md"}
+{"id": 738, "text": "6. Personal/3 Meetings/2021-07-14 TT Brand Metrics Preso Followup.md"}
+{"id": 739, "text": "6. Personal/3 Meetings/2021-07-01 TT Brand Metrics Goals with Jackie.md"}
+{"id": 740, "text": "6. Personal/3 Meetings/2021-07-01 TT Brand Lift Report Review 2.md"}
+{"id": 741, "text": "6. Personal/3 Meetings/2021-07-01 TT Benchmarks Example with Rachel.md"}
+{"id": 742, "text": "6. Personal/3 Meetings/2021-06-30 TT Titan team regroup after meeting with Shakil.md"}
+{"id": 743, "text": "6. Personal/3 Meetings/2021-06-30 TT Brand Metrics Feedback from Jackie.md"}
+{"id": 744, "text": "6. Personal/3 Meetings/2021-06-30 LL Comscore Weekly.md"}
+{"id": 745, "text": "6. Personal/3 Meetings/2021-06-29 Weekly Checkin with Dotan.md"}
+{"id": 746, "text": "6. Personal/3 Meetings/2021-06-29 TT Brand Metrics Feedback from Jane.md"}
+{"id": 747, "text": "6. Personal/3 Meetings/2021-06-24 TT Titan Weekly Checkin.md"}
+{"id": 748, "text": "6. Personal/3 Meetings/2021-06-22 TT DMATT Wrap Report.md"}
+{"id": 749, "text": "6. Personal/3 Meetings/2021-06-21 TT Titan chat with Nick.md"}
+{"id": 750, "text": "6. Personal/3 Meetings/2021-04-22 Nick Checkin.md"}
+{"id": 751, "text": "6. Personal/3 Meetings/2021-04-22 John Nudin.md"}
+{"id": 752, "text": "6. Personal/3 Meetings/2021-04-22 Analytics teams biweekly.md"}
+{"id": 753, "text": "6. Personal/3 Meetings/2021-04-22 Analytics teams biweekly 2.md"}
+{"id": 754, "text": "5. Data Science Playbook/8. Reference/Regex.md"}
+{"id": 755, "text": "5. Data Science Playbook/8. Reference/OS/macos/macos.md"}
+{"id": 756, "text": "5. Data Science Playbook/8. Reference/OS/macos/MacOS copy.md"}
+{"id": 757, "text": "5. Data Science Playbook/8. Reference/OS/windows/Windows.md"}
+{"id": 758, "text": "5. Data Science Playbook/8. Reference/OS/windows/Powershell.md"}
+{"id": 759, "text": "5. Data Science Playbook/8. Reference/OS/linux/wget.md"}
+{"id": 760, "text": "5. Data Science Playbook/8. Reference/OS/linux/tar.md"}
+{"id": 761, "text": "5. Data Science Playbook/8. Reference/OS/linux/ssh.md"}
+{"id": 762, "text": "5. Data Science Playbook/8. Reference/OS/linux/security.md"}
+{"id": 763, "text": "5. Data Science Playbook/8. Reference/OS/linux/nmap.md"}
+{"id": 764, "text": "5. Data Science Playbook/8. Reference/OS/linux/netstat.md"}
+{"id": 765, "text": "5. Data Science Playbook/8. Reference/OS/linux/linux-setup-configuration/security.md"}
+{"id": 766, "text": "5. Data Science Playbook/8. Reference/OS/linux/linux-setup-configuration/linix setup config.md"}
+{"id": 767, "text": "5. Data Science Playbook/8. Reference/OS/linux/grep.md"}
+{"id": 768, "text": "5. Data Science Playbook/8. Reference/OS/linux/crontab.md"}
+{"id": 769, "text": "5. Data Science Playbook/8. Reference/OS/linux/apt.md"}
+{"id": 770, "text": "5. Data Science Playbook/8. Reference/OS/linux/alias.md"}
+{"id": 771, "text": "5. Data Science Playbook/8. Reference/OS/linux/Linux.md"}
+{"id": 772, "text": "5. Data Science Playbook/8. Reference/Notation/Mermaid Diagrams.md"}
+{"id": 773, "text": "5. Data Science Playbook/8. Reference/Notation/Markdown.md"}
+{"id": 774, "text": "5. Data Science Playbook/8. Reference/Notation/LaTeX.md"}
+{"id": 775, "text": "5. Data Science Playbook/8. Reference/History/Unix.md"}
+{"id": 776, "text": "5. Data Science Playbook/8. Reference/Grep.md"}
+{"id": 777, "text": "5. Data Science Playbook/8. Reference/Git.md"}
+{"id": 778, "text": "5. Data Science Playbook/8. Reference/Business/Business Resources.md"}
+{"id": 779, "text": "5. Data Science Playbook/7. Mathematics/Physics/Kinematic Equations.md"}
+{"id": 780, "text": "5. Data Science Playbook/7. Mathematics/Mathematical Notation.md"}
+{"id": 781, "text": "5. Data Science Playbook/7. Mathematics/Linear Algebra/The Topology of Matrix Multiplication Is Beautiful.md"}
+{"id": 782, "text": "5. Data Science Playbook/7. Mathematics/Linear Algebra/Solving Linear Systems.md"}
+{"id": 783, "text": "5. Data Science Playbook/7. Mathematics/Linear Algebra/Notes - Linear Algebra.md"}
+{"id": 784, "text": "5. Data Science Playbook/7. Mathematics/Linear Algebra/More Matrix Fun.md"}
+{"id": 785, "text": "5. Data Science Playbook/7. Mathematics/Linear Algebra/Linear Algebra - 2. Matrix Transformations.md"}
+{"id": 786, "text": "5. Data Science Playbook/7. Mathematics/Linear Algebra/Matrix Factorization.md"}
+{"id": 787, "text": "5. Data Science Playbook/7. Mathematics/Linear Algebra/Linear Algebra.md"}
+{"id": 788, "text": "5. Data Science Playbook/7. Mathematics/Linear Algebra/Linear Algebra Done Right/Linear Algebra Done Right.md"}
+{"id": 789, "text": "5. Data Science Playbook/7. Mathematics/Linear Algebra/Linear Algebra Done Right/LADR - Chapter 1.md"}
+{"id": 790, "text": "5. Data Science Playbook/7. Mathematics/Linear Algebra/Linear Algebra - 1. Vectors.md"}
+{"id": 791, "text": "5. Data Science Playbook/7. Mathematics/Linear Algebra/LU Decomposition and Gaussian Elimination.md"}
+{"id": 792, "text": "5. Data Science Playbook/7. Mathematics/Linear Algebra/Eigenimagery.md"}
+{"id": 793, "text": "5. Data Science Playbook/7. Mathematics/Linear Algebra/Book Notes - Intro to Linear Algebra (Strang).md"}
+{"id": 794, "text": "5. Data Science Playbook/7. Mathematics/Linear Algebra/Book Notes - First Course in Linear Algebra.md"}
+{"id": 795, "text": "5. Data Science Playbook/7. Mathematics/Linear Algebra/Affiine Transformations.md"}
+{"id": 796, "text": "5. Data Science Playbook/7. Mathematics/Homogenous Equations.md"}
+{"id": 797, "text": "5. Data Science Playbook/7. Mathematics/Difference Equations.md"}
+{"id": 798, "text": "5. Data Science Playbook/7. Mathematics/Combinatorics/Combinatorics.md"}
+{"id": 799, "text": "5. Data Science Playbook/7. Mathematics/Chebyshev Inequality.md"}
+{"id": 800, "text": "5. Data Science Playbook/7. Mathematics/Characteristic Functions.md"}
+{"id": 801, "text": "5. Data Science Playbook/7. Mathematics/Characteristic Equations.md"}
+{"id": 802, "text": "5. Data Science Playbook/7. Mathematics/Calculus/Taylor Series.md"}
+{"id": 803, "text": "5. Data Science Playbook/7. Mathematics/Calculus/Partial Derivatives.md"}
+{"id": 804, "text": "5. Data Science Playbook/7. Mathematics/Calculus/Integration by Substitution.md"}
+{"id": 805, "text": "5. Data Science Playbook/7. Mathematics/Calculus/Integration & Antiderivatives.md"}
+{"id": 806, "text": "5. Data Science Playbook/7. Mathematics/Calculus/Differential Equations.md"}
+{"id": 807, "text": "5. Data Science Playbook/7. Mathematics/Calculus/Derivatives.md"}
+{"id": 808, "text": "5. Data Science Playbook/7. Mathematics/Calculus/Critical Points.md"}
+{"id": 809, "text": "5. Data Science Playbook/7. Mathematics/Calculus/Calculus - Early Transcendentals/ET - Chapter 1.md"}
+{"id": 810, "text": "5. Data Science Playbook/7. Mathematics/Calculus/Calculus - Early Transcendentals/Calculus - Early Transcendentals.md"}
+{"id": 811, "text": "5. Data Science Playbook/6. Statistics/6. Statistics.md"}
+{"id": 812, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Probability/Marginal, Joint & Conditional Probability.md"}
+{"id": 813, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Estimation Statistics.md"}
+{"id": 814, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Distributions/Probability Mass Function (PMF).md"}
+{"id": 815, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Distributions/Probability Density Function (PDF).md"}
+{"id": 816, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Distributions/Poisson Distribution.md"}
+{"id": 817, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Distributions/Normal Distribution.md"}
+{"id": 818, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Distributions/Negative Binomial Distribution.md"}
+{"id": 819, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Distributions/Moments + Moment Generating Functions.md"}
+{"id": 820, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Distributions/Hypergeometric Distribution.md"}
+{"id": 821, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Distributions/Geometric Distribution.md"}
+{"id": 822, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Distributions/Gamma Distribution.md"}
+{"id": 823, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Distributions/Exponential Distribution.md"}
+{"id": 824, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Distributions/Continuous Uniform Distribution.md"}
+{"id": 825, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Distributions/Binomial Theorem.md"}
+{"id": 826, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Distributions/Binomial Distribution.md"}
+{"id": 827, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Distributions/Beta Distribution.md"}
+{"id": 828, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Correlation Coefficient - R.md"}
+{"id": 829, "text": "5. Data Science Playbook/6. Statistics/1. Foundations/Coefficient of Determination - R2.md"}
+{"id": 830, "text": "5. Data Science Playbook/5. Programming/R/R Documentation.md"}
+{"id": 831, "text": "5. Data Science Playbook/5. Programming/R/R - custom functions.md"}
+{"id": 832, "text": "5. Data Science Playbook/5. Programming/R/R - common-tasks.md"}
+{"id": 833, "text": "5. Data Science Playbook/5. Programming/R/R - Visualization - Spatial Data and Mapping.md"}
+{"id": 834, "text": "5. Data Science Playbook/5. Programming/R/R - Statistics - infer.md"}
+{"id": 835, "text": "5. Data Science Playbook/5. Programming/R/R - Statistics - Outlier Detection.md"}
+{"id": 836, "text": "5. Data Science Playbook/5. Programming/R/R - Statistics - Distribution Functions.md"}
+{"id": 837, "text": "5. Data Science Playbook/5. Programming/R/R - Resources.md"}
+{"id": 838, "text": "5. Data Science Playbook/5. Programming/R/R - Resources - syntax.md"}
+{"id": 839, "text": "5. Data Science Playbook/5. Programming/R/R - Reporting - plotting summary.md"}
+{"id": 840, "text": "5. Data Science Playbook/5. Programming/R/R - Reporting - plotting qplot.md"}
+{"id": 841, "text": "5. Data Science Playbook/5. Programming/R/R - Reporting - plotting ggplot.md"}
+{"id": 842, "text": "5. Data Science Playbook/5. Programming/R/R - Reporting - markdown.md"}
+{"id": 843, "text": "5. Data Science Playbook/5. Programming/R/R - Reporting - Quarto.md"}
+{"id": 844, "text": "5. Data Science Playbook/5. Programming/R/R - Programming - string functions.md"}
+{"id": 845, "text": "5. Data Science Playbook/5. Programming/R/R - Programming - statistical functions.md"}
+{"id": 846, "text": "5. Data Science Playbook/5. Programming/R/R - Programming - regular expressions.md"}
+{"id": 847, "text": "5. Data Science Playbook/5. Programming/R/R - Programming - operators.md"}
+{"id": 848, "text": "5. Data Science Playbook/5. Programming/R/R - Programming - math and stats functions.md"}
+{"id": 849, "text": "5. Data Science Playbook/5. Programming/R/R - Programming - functions.md"}
+{"id": 850, "text": "5. Data Science Playbook/5. Programming/R/R - Programming - flow control.md"}
+{"id": 851, "text": "5. Data Science Playbook/5. Programming/R/R - Programming - date and time.md"}
+{"id": 852, "text": "5. Data Science Playbook/5. Programming/R/R - Programming - dataset functions.md"}
+{"id": 853, "text": "5. Data Science Playbook/5. Programming/R/R - Packages - Stats.md"}
+{"id": 854, "text": "5. Data Science Playbook/5. Programming/R/R - Modeling - tidytext.md"}
+{"id": 855, "text": "5. Data Science Playbook/5. Programming/R/R - Modeling - tidymodels.md"}
+{"id": 856, "text": "5. Data Science Playbook/5. Programming/R/R - Modeling - natural language processing.md"}
+{"id": 857, "text": "5. Data Science Playbook/5. Programming/R/R - Modeling - machine learning.md"}
+{"id": 858, "text": "5. Data Science Playbook/5. Programming/R/R - Modeling - feature engineering.md"}
+{"id": 859, "text": "5. Data Science Playbook/5. Programming/R/R - Modeling - distributions.md"}
+{"id": 860, "text": "5. Data Science Playbook/5. Programming/R/R - Modeling - broom.md"}
+{"id": 861, "text": "5. Data Science Playbook/5. Programming/R/R - Modeling - Model Formulae.md"}
+{"id": 862, "text": "5. Data Science Playbook/5. Programming/R/R - Modeling - ML process.md"}
+{"id": 863, "text": "5. Data Science Playbook/5. Programming/R/R - Modeling - Linear Regression - Transformations.md"}
+{"id": 864, "text": "5. Data Science Playbook/5. Programming/R/R - Modeling - LP & Optmization.md"}
+{"id": 865, "text": "5. Data Science Playbook/5. Programming/R/R - IO - text.md"}
+{"id": 866, "text": "5. Data Science Playbook/5. Programming/R/R - IO - sql.md"}
+{"id": 867, "text": "5. Data Science Playbook/5. Programming/R/R - IO - packages.md"}
+{"id": 868, "text": "5. Data Science Playbook/5. Programming/R/R - IO - json.md"}
+{"id": 869, "text": "5. Data Science Playbook/5. Programming/R/R - IO - html and xml.md"}
+{"id": 870, "text": "5. Data Science Playbook/5. Programming/R/R - IO - excel.md"}
+{"id": 871, "text": "5. Data Science Playbook/5. Programming/R/R - IO - csv.md"}
+{"id": 872, "text": "5. Data Science Playbook/5. Programming/R/R - Graphs - Histogram.md"}
+{"id": 873, "text": "5. Data Science Playbook/5. Programming/R/R - ETL - dplyr.md"}
+{"id": 874, "text": "5. Data Science Playbook/5. Programming/R/R - ETL - Naniar (Missing Values).md"}
+{"id": 875, "text": "5. Data Science Playbook/5. Programming/R/R - Data Structures - vectors.md"}
+{"id": 876, "text": "5. Data Science Playbook/5. Programming/R/R - Data Structures - tibbles.md"}
+{"id": 877, "text": "5. Data Science Playbook/5. Programming/R/R - Data Structures - matrices.md"}
+{"id": 878, "text": "5. Data Science Playbook/5. Programming/R/R - Data Structures - lists.md"}
+{"id": 879, "text": "5. Data Science Playbook/5. Programming/R/R - Data Structures - factors.md"}
+{"id": 880, "text": "5. Data Science Playbook/5. Programming/R/R - Data Structures - datetimes.md"}
+{"id": 881, "text": "5. Data Science Playbook/5. Programming/R/R - Data Structures - datatypes.md"}
+{"id": 882, "text": "5. Data Science Playbook/5. Programming/R/R - Data Structures - dataframes.md"}
+{"id": 883, "text": "5. Data Science Playbook/5. Programming/R/Dygraphs.md"}
+{"id": 884, "text": "5. Data Science Playbook/5. Programming/R/A Little Book of R for Time Series.md"}
+{"id": 885, "text": "5. Data Science Playbook/5. Programming/Python/python-technical-interview-notes.md"}
+{"id": 886, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/type-conversion.md"}
+{"id": 887, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/subprocess.md"}
+{"id": 888, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/strings.md"}
+{"id": 889, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/split-dictionaries.md"}
+{"id": 890, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/requests.md"}
+{"id": 891, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/rename-files-in-bulk.md"}
+{"id": 892, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/re-regex.md"}
+{"id": 893, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/pip.md"}
+{"id": 894, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/map.md"}
+{"id": 895, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/lists.md"}
+{"id": 896, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/flatten_json.md"}
+{"id": 897, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/list-comprehension.md"}
+{"id": 898, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/dict.md"}
+{"id": 899, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/definitions.md"}
+{"id": 900, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/datetime-functions.md"}
+{"id": 901, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/date-and-time.md"}
+{"id": 902, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/README.md"}
+{"id": 903, "text": "5. Data Science Playbook/5. Programming/Python/python-tasks/argparse-command-line-arguments.md"}
+{"id": 904, "text": "5. Data Science Playbook/5. Programming/Python/python-study-guide.md"}
+{"id": 905, "text": "5. Data Science Playbook/5. Programming/Python/python-guides.md"}
+{"id": 906, "text": "5. Data Science Playbook/5. Programming/Python/python-advanced/strings-f-strings-formatted-string-literals.md"}
+{"id": 907, "text": "5. Data Science Playbook/5. Programming/Python/python-advanced/python-exceptions.md"}
+{"id": 908, "text": "5. Data Science Playbook/5. Programming/Python/python-advanced/underscores.md"}
+{"id": 909, "text": "5. Data Science Playbook/5. Programming/Python/python-advanced/math-functions-non-builtin.md"}
+{"id": 910, "text": "5. Data Science Playbook/5. Programming/Python/python-advanced/lists-operations.md"}
+{"id": 911, "text": "5. Data Science Playbook/5. Programming/Python/python-advanced/function-annotations.md"}
+{"id": 912, "text": "5. Data Science Playbook/5. Programming/Python/python-advanced/flexible-arbitrary-arguments-unpacking.md"}
+{"id": 913, "text": "5. Data Science Playbook/5. Programming/Python/python-advanced/decorators.md"}
+{"id": 914, "text": "5. Data Science Playbook/5. Programming/Python/python-advanced/README.md"}
+{"id": 915, "text": "5. Data Science Playbook/5. Programming/Python/python-advanced/Dictionaries.md"}
+{"id": 916, "text": "5. Data Science Playbook/5. Programming/Python/Python Programming Tips.md"}
+{"id": 917, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pydoc.md"}
+{"id": 918, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/plotly-express.md"}
+{"id": 919, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pathlib.md"}
+{"id": 920, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pandas/unique-values.md"}
+{"id": 921, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pandas/strings.md"}
+{"id": 922, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pandas/sort-rows.md"}
+{"id": 923, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pandas/slice-drop-rows-and-columns.md"}
+{"id": 924, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pandas/rename.md"}
+{"id": 925, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pandas/pivot-melt.md"}
+{"id": 926, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pandas/move-columns.md"}
+{"id": 927, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pandas/json_normalize.md"}
+{"id": 928, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pandas/join-tables.md"}
+{"id": 929, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pandas/isin.md"}
+{"id": 930, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pandas/import-data-to-df.md"}
+{"id": 931, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pandas/if-conditions-with-df.md"}
+{"id": 932, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pandas/flatten-multiindex-df.md"}
+{"id": 933, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pandas/fix-labels.md"}
+{"id": 934, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pandas/dates.md"}
+{"id": 935, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pandas/append-and-concat.md"}
+{"id": 936, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/pandas/1. Pandas Common Tasks.md"}
+{"id": 937, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/numPy/NumPy Functions.md"}
+{"id": 938, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/numPy/NumPy Boolean Functions.md"}
+{"id": 939, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/numPy/NumPy Arrays.md"}
+{"id": 940, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/flask/flask.md"}
+{"id": 941, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/Python Packages.md"}
+{"id": 942, "text": "5. Data Science Playbook/5. Programming/Python/Python Packages/Itertools.md"}
+{"id": 943, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/variables.md"}
+{"id": 944, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/syntax.md"}
+{"id": 945, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/regular-expressions.md"}
+{"id": 946, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/objects-attributes-methods.md"}
+{"id": 947, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/modules.md"}
+{"id": 948, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/iterators.md"}
+{"id": 949, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/errors-and-exceptions.md"}
+{"id": 950, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/Packages.md"}
+{"id": 951, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/Operators.md"}
+{"id": 952, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/List Comprehension.md"}
+{"id": 953, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/Environments.md"}
+{"id": 954, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/Built-In Functions & Methods/variables-references-and-scope.md"}
+{"id": 955, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/Built-In Functions & Methods/miscellaneous.md"}
+{"id": 956, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/Built-In Functions & Methods/math-functions.md"}
+{"id": 957, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/Built-In Functions & Methods/input-and-output.md"}
+{"id": 958, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/Built-In Functions & Methods/composite-data-type.md"}
+{"id": 959, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/Built-In Functions & Methods/classes-attributes-and-inheritance.md"}
+{"id": 960, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/Built-In Functions & Methods/String Methods.md"}
+{"id": 961, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/Built-In Functions & Methods/README.md"}
+{"id": 962, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/Built-In Functions & Methods/Iterables and Iterators.md"}
+{"id": 963, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/5. Classes, Methods and Attributes (OOP).md"}
+{"id": 964, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/4. Functions.md"}
+{"id": 965, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/3. Control Flow.md"}
+{"id": 966, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/2. Data Structures.md"}
+{"id": 967, "text": "5. Data Science Playbook/5. Programming/Python/Python Fundamentals/1. Basic Data Types.md"}
+{"id": 968, "text": "5. Data Science Playbook/5. Programming/Python/Python - Miniconda.md"}
+{"id": 969, "text": "5. Data Science Playbook/5. Programming/Python/Python - Common Tasks.md"}
+{"id": 970, "text": "5. Data Science Playbook/5. Programming/Programming Concepts/algorithms/sorting-algorithms.md"}
+{"id": 971, "text": "5. Data Science Playbook/5. Programming/Programming Concepts/algorithms/bubble-sort-sorting.md"}
+{"id": 972, "text": "5. Data Science Playbook/5. Programming/Programming Concepts/algorithms/big-o-notation/math-functions.md"}
+{"id": 973, "text": "5. Data Science Playbook/5. Programming/Programming Concepts/algorithms/big-o-notation/README.md"}
+{"id": 974, "text": "5. Data Science Playbook/5. Programming/Programming Concepts/algorithms/algorithmic-paradigms.md"}
+{"id": 975, "text": "5. Data Science Playbook/5. Programming/Jupyter/Jupyter.md"}
+{"id": 976, "text": "5. Data Science Playbook/4. Database/SQL/Sample Queries/SQL Study Queries.md"}
+{"id": 977, "text": "5. Data Science Playbook/4. Database/SQL/Sample Queries/SQL Study Notes.md"}
+{"id": 978, "text": "5. Data Science Playbook/4. Database/SQL/Sample Queries/MySQL - Median.md"}
+{"id": 979, "text": "5. Data Science Playbook/4. Database/SQL/SQL.md"}
+{"id": 980, "text": "5. Data Science Playbook/4. Database/SQL/SQL - Window Functions.md"}
+{"id": 981, "text": "5. Data Science Playbook/4. Database/SQL/SQL - Subqueries & CTEs.md"}
+{"id": 982, "text": "5. Data Science Playbook/4. Database/SQL/SQL - Set Operations (Union).md"}
+{"id": 983, "text": "5. Data Science Playbook/4. Database/SQL/SQL - Query Optimization.md"}
+{"id": 984, "text": "5. Data Science Playbook/4. Database/SQL/SQL - Queries (Select).md"}
+{"id": 985, "text": "5. Data Science Playbook/4. Database/SQL/SQL - Functions & Operators.md"}
+{"id": 986, "text": "5. Data Science Playbook/4. Database/SQL/SQL - Data Types.md"}
+{"id": 987, "text": "5. Data Science Playbook/4. Database/SQL/SQL - Combining (Join).md"}
+{"id": 988, "text": "5. Data Science Playbook/4. Database/Platforms/T-SQL.md"}
+{"id": 989, "text": "5. Data Science Playbook/4. Database/Platforms/Redshift (Postgres)/date_trunc.md"}
+{"id": 990, "text": "5. Data Science Playbook/4. Database/Platforms/Redshift (Postgres)/Variables.md"}
+{"id": 991, "text": "5. Data Science Playbook/4. Database/Platforms/Postgres/Basic commands.md"}
+{"id": 992, "text": "5. Data Science Playbook/4. Database/Platforms/MySQL/MySQL - Database Administration.md"}
+{"id": 993, "text": "5. Data Science Playbook/4. Database/Platforms/MongoDB/Query Operators.md"}
+{"id": 994, "text": "5. Data Science Playbook/4. Database/Platforms/MongoDB/Python - PyMongo.md"}
+{"id": 995, "text": "5. Data Science Playbook/4. Database/Platforms/MongoDB/Links and Projects.md"}
+{"id": 996, "text": "5. Data Science Playbook/4. Database/Platforms/MongoDB/Installation & Control.md"}
+{"id": 997, "text": "5. Data Science Playbook/4. Database/Platforms/MongoDB/Concepts & Structure.md"}
+{"id": 998, "text": "5. Data Science Playbook/4. Database/Platforms/MongoDB/Commands.md"}
+{"id": 999, "text": "5. Data Science Playbook/4. Database/Platforms/MongoDB/Collection Methods.md"}
+{"id": 1000, "text": "5. Data Science Playbook/4. Database/Platforms/MongoDB/Aggregation Pipeline.md"}
+{"id": 1001, "text": "5. Data Science Playbook/4. Database/Platforms/Hadoop - Impala/Impala  COMPUTE STATS.md"}
+{"id": 1002, "text": "5. Data Science Playbook/4. Database/Platforms/Hadoop - Hive/Hive Operators & Functions (UDF).md"}
+{"id": 1003, "text": "5. Data Science Playbook/4. Database/Platforms/Hadoop - Hive/Data Types.md"}
+{"id": 1004, "text": "5. Data Science Playbook/4. Database/Platforms/BigQuery.md"}
+{"id": 1005, "text": "5. Data Science Playbook/3. Data Visualization/3. Data Visualization.md"}
+{"id": 1006, "text": "5. Data Science Playbook/3. Data Visualization/2. Visualizations/sf (Simple Features).md"}
+{"id": 1007, "text": "5. Data Science Playbook/3. Data Visualization/2. Visualizations/Scatterplots and Joint Plots.md"}
+{"id": 1008, "text": "5. Data Science Playbook/3. Data Visualization/2. Visualizations/Scatterplots and Joint Plots - Py.md"}
+{"id": 1009, "text": "5. Data Science Playbook/3. Data Visualization/2. Visualizations/Histograms & Density Plots.md"}
+{"id": 1010, "text": "5. Data Science Playbook/3. Data Visualization/2. Visualizations/Histograms & Density Plots - R.md"}
+{"id": 1011, "text": "5. Data Science Playbook/3. Data Visualization/2. Visualizations/Histograms & Density Plots - Py.md"}
+{"id": 1012, "text": "5. Data Science Playbook/3. Data Visualization/2. Visualizations/Geomapping & Spatial Data.md"}
+{"id": 1013, "text": "5. Data Science Playbook/3. Data Visualization/1. Packages/seaborn/seaborn.md"}
+{"id": 1014, "text": "5. Data Science Playbook/3. Data Visualization/1. Packages/matplotlib/matplotlib.md"}
+{"id": 1015, "text": "5. Data Science Playbook/3. Data Visualization/1. Packages/matplotlib/Matplotlib Plot Types.md"}
+{"id": 1016, "text": "5. Data Science Playbook/3. Data Visualization/1. Packages/ggplot/ggplot.md"}
+{"id": 1017, "text": "5. Data Science Playbook/2. AI/Mistral AI.md"}
+{"id": 1018, "text": "5. Data Science Playbook/2. AI/Activation Functions - 2024-06-20.md"}
+{"id": 1019, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/6. Frameworks/Tidymodels.md"}
+{"id": 1020, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/6. Frameworks/Scikit-learn.md"}
+{"id": 1021, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/6. Frameworks/PyTorch.md"}
+{"id": 1022, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/6. Frameworks/NumPy.md"}
+{"id": 1023, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/6. Frameworks/Caret.md"}
+{"id": 1024, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Timeseries Forecasting/Stationarity.md"}
+{"id": 1025, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Timeseries Forecasting/Prophet.md"}
+{"id": 1026, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Simulation/Verification & Validation.md"}
+{"id": 1027, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Simulation/Stochastic Optimization Models.md"}
+{"id": 1028, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Simulation/Simulation Modeling Software.md"}
+{"id": 1029, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Simulation/SimPy.md"}
+{"id": 1030, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Simulation/Queueing Theory.md"}
+{"id": 1031, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Simulation/Logistic Growth Model.md"}
+{"id": 1032, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Simulation/Logistic Difference Equation.md"}
+{"id": 1033, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Simulation/Linear Growth Model.md"}
+{"id": 1034, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Simulation/Growth Models.md"}
+{"id": 1035, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Simulation/Exponential Growth Model.md"}
+{"id": 1036, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Simulation/Compartmental Models - Epidemiology.md"}
+{"id": 1037, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Simulation/Compartment Models.md"}
+{"id": 1038, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Sample Datasets - Py.md"}
+{"id": 1039, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Recommender Systems/Recommender Systems.md"}
+{"id": 1040, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Recommender Systems/Hybrid Approaches.md"}
+{"id": 1041, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Recommender Systems/Content-Based Filtering.md"}
+{"id": 1042, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Recommender Systems/Collaborative Filtering.md"}
+{"id": 1043, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Recommender Systems/Associative Rule Modeling.md"}
+{"id": 1044, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Recommender Systems/Associative Rule Modeling - R.md"}
+{"id": 1045, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Experiments/Response Surface Curves - Python.md"}
+{"id": 1046, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Experiments/Fractional Factorial Design.md"}
+{"id": 1047, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Experiments/Design of Experiments (DOE).md"}
+{"id": 1048, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Experiments/Balance Equations.md"}
+{"id": 1049, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/5. Special Topics/Anomaly Detection.md"}
+{"id": 1050, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/3. Model Evaluation/Resampling and Cross-Validation.md"}
+{"id": 1051, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/3. Model Evaluation/Error Metrics.md"}
+{"id": 1052, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/3. Model Evaluation/Error Metrics - R.md"}
+{"id": 1053, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/3. Model Evaluation/Error Metrics - Py.md"}
+{"id": 1054, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/3. Model Evaluation/Data Splitting & Test Sets.md"}
+{"id": 1055, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/3. Model Evaluation/Data Splitting & Test Sets - R.md"}
+{"id": 1056, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/3. Model Evaluation/Data Splitting & Test Sets - Py.md"}
+{"id": 1057, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/3. Model Evaluation/Classification Metrics.md"}
+{"id": 1058, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/3. Model Evaluation/Choosing Tuning Parameters.md"}
+{"id": 1059, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/6. Other Models/Time Series Forecasting/Timeseries Forecasting.md"}
+{"id": 1060, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/6. Other Models/Time Series Forecasting/Forecast.md"}
+{"id": 1061, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/6. Other Models/Time Series Forecasting/Exponential Smoothing Models.md"}
+{"id": 1062, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/6. Other Models/Time Series Forecasting/Decomposition Models.md"}
+{"id": 1063, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/6. Other Models/Time Series Forecasting/ARIMA Models.md"}
+{"id": 1064, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/2. Unsupervised Learning/Principal Component Regression (PCR).md"}
+{"id": 1065, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/2. Unsupervised Learning/Lasso Regression - R.md"}
+{"id": 1066, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/2. Unsupervised Learning/K-Means Clustering.md"}
+{"id": 1067, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/1. Supervised Learning/Support Vector Regression (SVR).md"}
+{"id": 1068, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/1. Supervised Learning/Support Vector Classification (SVC).md"}
+{"id": 1069, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/1. Supervised Learning/Partial Least Squares (PLS).md"}
+{"id": 1070, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/1. Supervised Learning/Partial Least Squares (PLS) - R.md"}
+{"id": 1071, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/1. Supervised Learning/Multivariate Adaptive Regression Spline (MARS).md"}
+{"id": 1072, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/1. Supervised Learning/Logistic Regression.md"}
+{"id": 1073, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/1. Supervised Learning/Linear Regression/Simple & Multiple Linear Regression.md"}
+{"id": 1074, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/1. Supervised Learning/Linear Regression/Robust Linear Regression.md"}
+{"id": 1075, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/1. Supervised Learning/Linear Regression/Robust Linear Regression - R.md"}
+{"id": 1076, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/1. Supervised Learning/Linear Regression/Linear Regression - R.md"}
+{"id": 1077, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/1. Supervised Learning/Linear Regression/R - Modeling - Linear Regression.md"}
+{"id": 1078, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/1. Supervised Learning/Linear Regression/Assumptions of Linear Regression.md"}
+{"id": 1079, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/2. Model Training/1. Supervised Learning/Decision Trees.md"}
+{"id": 1080, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Modeling & Machine Learning.md"}
+{"id": 1081, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/4. Feature Generation/Polynomial Features.md"}
+{"id": 1082, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/4. Feature Generation/Kernel Approximation.md"}
+{"id": 1083, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/4. Feature Generation/Discretization (Binning).md"}
+{"id": 1084, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/4. Feature Generation/Centroids.md"}
+{"id": 1085, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/3. Feature Selection/Zero-Variance Predictors.md"}
+{"id": 1086, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/3. Feature Selection/Zero-Variance Predictors - R.md"}
+{"id": 1087, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/3. Feature Selection/Subsetting.md"}
+{"id": 1088, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/3. Feature Selection/Scree Plots - R.md"}
+{"id": 1089, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/3. Feature Selection/SULOV.md"}
+{"id": 1090, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/3. Feature Selection/Ridge Regression.md"}
+{"id": 1091, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/3. Feature Selection/Regularization & Penalized Regression.md"}
+{"id": 1092, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/3. Feature Selection/Reducing Multicollinearity.md"}
+{"id": 1093, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/3. Feature Selection/Reducing Multicollinearity - R.md"}
+{"id": 1094, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/3. Feature Selection/Principal Component Analysis (PCA).md"}
+{"id": 1095, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/3. Feature Selection/Principal Component Analysis (PCA) - R.md"}
+{"id": 1096, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/3. Feature Selection/Lasso Regression.md"}
+{"id": 1097, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/3. Feature Selection/Dimension Reduction.md"}
+{"id": 1098, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/3. Feature Selection/Boruta.md"}
+{"id": 1099, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/3. Feature Selection/Boruta - R.md"}
+{"id": 1100, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/3. Feature Selection/Boruta - Py.md"}
+{"id": 1101, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Square Root Transformation.md"}
+{"id": 1102, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Square Root Transformation - R.md"}
+{"id": 1103, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Square Root Transformation - Py.md"}
+{"id": 1104, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Spatial Sign Transformation.md"}
+{"id": 1105, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Skewness & Kurtosis.md"}
+{"id": 1106, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Skewness & Kurtosis - R.md"}
+{"id": 1107, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Skewness & Kurtosis - Py.md"}
+{"id": 1108, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Shapiro-Wilk Normality Test.md"}
+{"id": 1109, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Shapiro-Wilk Normality Test - R.md"}
+{"id": 1110, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Shapiro-Wilk Normality Test - Py.md"}
+{"id": 1111, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Quantile Transformation.md"}
+{"id": 1112, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Quantile Transformation - R.md"}
+{"id": 1113, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Quantile Transformation - Py.md"}
+{"id": 1114, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Non-Linear Standardization.md"}
+{"id": 1115, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Log Transformation.md"}
+{"id": 1116, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Log Transformation - R.md"}
+{"id": 1117, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Log Transformation - Py.md"}
+{"id": 1118, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Linear Standardization.md"}
+{"id": 1119, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Linear Standardization - R.md"}
+{"id": 1120, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Linear Standardization - Py.md"}
+{"id": 1121, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Imputing Missing Data.md"}
+{"id": 1122, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Imputing Missing Data - R.md"}
+{"id": 1123, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Imputing Missing Data - Py.md"}
+{"id": 1124, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Handling Outliers.md"}
+{"id": 1125, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Encoding Categorical Features.md"}
+{"id": 1126, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Encoding Categorical Features - R.md"}
+{"id": 1127, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Encoding Categorical Features - Py.md"}
+{"id": 1128, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Box-Cox Transformation.md"}
+{"id": 1129, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Box-Cox Transformation - R.md"}
+{"id": 1130, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/2. Data Cleaning/Box-Cox Transformation - Py.md"}
+{"id": 1131, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/1. Data Exploration/Summary Statistics.md"}
+{"id": 1132, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/1. Data Exploration/Summary Statistics - R.md"}
+{"id": 1133, "text": "5. Data Science Playbook/1. Modeling & Machine Learning/1. Data Transformation/1. Data Exploration/Summary Statistics - Py.md"}
+{"id": 1134, "text": "4. Zettelkasten/Writing a Research Paper - Purdue OWL.md"}
+{"id": 1135, "text": "4. Zettelkasten/Verification Validation & Uncertainty Quantification Terminology in Computational Modeling & Simulation (L).md"}
+{"id": 1136, "text": "4. Zettelkasten/Uncensoring LLMs with Abliteration (L).md"}
+{"id": 1137, "text": "4. Zettelkasten/Two-stage Stochastic Optimization for the Allocation of Medical Assets in Steady-state Combat Operations (L).md"}
+{"id": 1138, "text": "4. Zettelkasten/The Tourism Forecasting Competition.md"}
+{"id": 1139, "text": "4. Zettelkasten/The Role of a Product Manager - 2024-06-25.md"}
+{"id": 1140, "text": "4. Zettelkasten/The Classification of Research Questions.md"}
+{"id": 1141, "text": "4. Zettelkasten/The Capacity for Moral Self-Correction in Large Language Models.md"}
+{"id": 1142, "text": "4. Zettelkasten/The 4 Stages of 0->1 Products.md"}
+{"id": 1143, "text": "4. Zettelkasten/That's Interesting!.md"}
+{"id": 1144, "text": "4. Zettelkasten/Superhuman's Product Market Fit Framework.md"}
+{"id": 1145, "text": "4. Zettelkasten/Students\u2019 Civic Online Reasoning - A National Portrait.md"}
+{"id": 1146, "text": "4. Zettelkasten/Some High-Tech Career Counseling Tips.md"}
+{"id": 1147, "text": "4. Zettelkasten/Situational Awareness - The Decade Ahead.md"}
+{"id": 1148, "text": "4. Zettelkasten/Regression Using Classification Algorithms.md"}
+{"id": 1149, "text": "4. Zettelkasten/Principles of Effective Research.md"}
+{"id": 1150, "text": "4. Zettelkasten/Learning Representations by Back-Propagating Errors.md"}
+{"id": 1151, "text": "4. Zettelkasten/Mochary Method Curriculum.md"}
+{"id": 1152, "text": "4. Zettelkasten/Large language model data pipelines and Common Crawl (WARC-WAT-WET).md"}
+{"id": 1153, "text": "4. Zettelkasten/I Need to Write a Paper\u2014How Do I Start?.md"}
+{"id": 1154, "text": "4. Zettelkasten/How to Write Your First Research Paper.md"}
+{"id": 1155, "text": "4. Zettelkasten/How Do Large Language Models Acquire Factual Knowledge During Pretraining?.md"}
+{"id": 1156, "text": "4. Zettelkasten/Di\u00e1taxis - 2024-06-10.md"}
+{"id": 1157, "text": "4. Zettelkasten/Constructing Research Questions - Doing Interesting Research.md"}
+{"id": 1158, "text": "4. Zettelkasten/Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.md"}
+{"id": 1159, "text": "4. Zettelkasten/Beyond the Imitation Game (BIG-Bench).md"}
+{"id": 1160, "text": "4. Zettelkasten/Attention Is All You Need.md"}
+{"id": 1161, "text": "4. Zettelkasten/Are Emergent Abilities of Large Language Models a Mirage?.md"}
+{"id": 1162, "text": "4. Zettelkasten/Apple's AI Strategy in a Nutshell.md"}
+{"id": 1163, "text": "4. Zettelkasten/Alignment Research Center (ARC).md"}
+{"id": 1164, "text": "3. Career/Jobs/The Pitch.md"}
+{"id": 1165, "text": "3. Career/Jobs/Search Thread 2024.md"}
+{"id": 1166, "text": "3. Career/Jobs/Search Strategy 2024.md"}
+{"id": 1167, "text": "3. Career/Jobs/Search/Resumes/Resume Workshop.md"}
+{"id": 1168, "text": "3. Career/Jobs/Search/Resumes/Resume Design.md"}
+{"id": 1169, "text": "3. Career/Jobs/Search/Resumes/Full Resume - LinkedIn 2022.md"}
+{"id": 1170, "text": "3. Career/Jobs/Search/Resumes/Cover Letter Templates.md"}
+{"id": 1171, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/tinuiti.md"}
+{"id": 1172, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/tinuiti-vp-projects.md"}
+{"id": 1173, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/tinuiti-team-management.md"}
+{"id": 1174, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/starmark.md"}
+{"id": 1175, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/project-template.md"}
+{"id": 1176, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/merkle-client-backlog.md"}
+{"id": 1177, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/e.l.f.-datorama-pov.md"}
+{"id": 1178, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/api-and-web-automation.md"}
+{"id": 1179, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/analytics-intern-curriculum.md"}
+{"id": 1180, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Zenith - Lilly Programmatic Audience Analysis.md"}
+{"id": 1181, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Tinuiti - Measurement Strategy.md"}
+{"id": 1182, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Tinuiti - CityMD Attribution.md"}
+{"id": 1183, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Team Performance (Tinuiti).md"}
+{"id": 1184, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/STAR Technique.md"}
+{"id": 1185, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Team Backlog - L'Oreal (Merkle).md"}
+{"id": 1186, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Starmark - Analytics Dept Launch.md"}
+{"id": 1187, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Paid Search Attribution - CityMD (Tinuiti).md"}
+{"id": 1188, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Merkle - L'Oreal Replenishment Predictive Model.md"}
+{"id": 1189, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Merkle - L'Oreal Overview.md"}
+{"id": 1190, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Merkle - L'Oreal NYX Audience Activation.md"}
+{"id": 1191, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Merkle - L'Oreal Multi-Touch Attribution.md"}
+{"id": 1192, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Merkle - L'Oreal Email Wearout Analysis.md"}
+{"id": 1193, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Merkle - L'Oreal Database Counts & Contactibility.md"}
+{"id": 1194, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Merkle - L'Oreal Customer Segmentation.md"}
+{"id": 1195, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Markov Attribution - Thinx (Tinuiti).md"}
+{"id": 1196, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Loyalty Reports - L'oreal (Merkle).md"}
+{"id": 1197, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Leadership Projects (Tinuiti).md"}
+{"id": 1198, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/IT Relationships - CityMD (Merkle).md"}
+{"id": 1199, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Dashboard Prototyping (Tinuiti).md"}
+{"id": 1200, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Dashboard Onboarding Use Cases.md"}
+{"id": 1201, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Adv Analytics Projects.md"}
+{"id": 1202, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/STAR Project Summaries/Adopting Software Development Practices.md"}
+{"id": 1203, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/Leadership Style.md"}
+{"id": 1204, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/Interviews - Not Giving Away the Store.md"}
+{"id": 1205, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/Interviewing Notes.md"}
+{"id": 1206, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/In Praise of Older Workers.md"}
+{"id": 1207, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/Cover Letter to PDF.md"}
+{"id": 1208, "text": "3. Career/Jobs/Search/Interviews/Strategy & Case Studies/AI Prompts - Career.md"}
+{"id": 1209, "text": "3. Career/Jobs/Search/Interviews/STAR Summaries of Key Projects.md"}
+{"id": 1210, "text": "3. Career/Jobs/Search/Interviews/STAR - Engineering and Experimentation.md"}
+{"id": 1211, "text": "3. Career/Jobs/Search/Interviews/Recruiter Scripts.md"}
+{"id": 1212, "text": "3. Career/Jobs/Search/Interviews/Interview Questions.md"}
+{"id": 1213, "text": "3. Career/Jobs/Search/Interviews/Interview General Questions.md"}
+{"id": 1214, "text": "3. Career/Jobs/Search/Interviews/Companies/WebMD /Pulsepoint.md"}
+{"id": 1215, "text": "3. Career/Jobs/Search/Interviews/Companies/Slingwave/Slingwave.md"}
+{"id": 1216, "text": "3. Career/Jobs/Search/Interviews/Companies/Slingwave/Slingwave - Interview 2022-01-25.md"}
+{"id": 1217, "text": "3. Career/Jobs/Search/Interviews/Companies/Slingwave/Slingwave - Company Overview.md"}
+{"id": 1218, "text": "3. Career/Jobs/Search/Interviews/Companies/Rokt/Rokt - Recruiter Screen 2024-07-25.md"}
+{"id": 1219, "text": "3. Career/Jobs/Search/Interviews/Companies/Rokt/Rokt - Project Notes.md"}
+{"id": 1220, "text": "3. Career/Jobs/Search/Interviews/Companies/Rokt/Rokt - Project Ideas.md"}
+{"id": 1221, "text": "3. Career/Jobs/Search/Interviews/Companies/Rokt/Rokt - Principal Data Scientist, Experimentation.md"}
+{"id": 1222, "text": "3. Career/Jobs/Search/Interviews/Companies/Rokt/Rokt - Notes.md"}
+{"id": 1223, "text": "3. Career/Jobs/Search/Interviews/Companies/Rokt/Rokt - Hiring Manager 2024-07-31.md"}
+{"id": 1224, "text": "3. Career/Jobs/Search/Interviews/Companies/Rokt/Rokt - Company Profile.md"}
+{"id": 1225, "text": "3. Career/Jobs/Search/Interviews/Companies/Rokt/Rokt - Auction and Pricing Prep.md"}
+{"id": 1226, "text": "3. Career/Jobs/Search/Interviews/Companies/Rokt/Auction Theory - Krishna.md"}
+{"id": 1227, "text": "3. Career/Jobs/Search/Interviews/Companies/Misc/iSpotTV.md"}
+{"id": 1228, "text": "3. Career/Jobs/Search/Interviews/Companies/Misc/Mindshare, Director of Data Strategy 2023-05-25.md"}
+{"id": 1229, "text": "3. Career/Jobs/Search/Interviews/Companies/Misc/Thuma.md"}
+{"id": 1230, "text": "3. Career/Jobs/Search/Interviews/Companies/Misc/Perch.md"}
+{"id": 1231, "text": "3. Career/Jobs/Search/Interviews/Companies/Misc/Meru Health.md"}
+{"id": 1232, "text": "3. Career/Jobs/Search/Interviews/Companies/Misc/Harnham.md"}
+{"id": 1233, "text": "3. Career/Jobs/Search/Interviews/Companies/Misc/KKR.md"}
+{"id": 1234, "text": "3. Career/Jobs/Search/Interviews/Companies/Misc/Ekimetrics.md"}
+{"id": 1235, "text": "3. Career/Jobs/Search/Interviews/Companies/Misc/DID Agency.md"}
+{"id": 1236, "text": "3. Career/Jobs/Search/Interviews/Companies/Misc/Awareness Technologies.md"}
+{"id": 1237, "text": "3. Career/Jobs/Search/Interviews/Companies/Misc/Audible.md"}
+{"id": 1238, "text": "3. Career/Jobs/Search/Interviews/Companies/Misc/Adswerve.md"}
+{"id": 1239, "text": "3. Career/Jobs/Search/Interviews/Companies/IPG Mediabrands - BMS/Initiative - IPG Mediabrands 2023-07-20.md"}
+{"id": 1240, "text": "3. Career/Jobs/Search/Interviews/Companies/IPG Mediabrands - BMS/IPG - Lilly Overview.md"}
+{"id": 1241, "text": "3. Career/Jobs/Search/Interviews/Companies/HBOMax/HBOMax 2022-02.md"}
+{"id": 1242, "text": "3. Career/Jobs/Search/Interviews/Companies/HBOMax/Cuong Pham - HBOMax.md"}
+{"id": 1243, "text": "3. Career/Jobs/Search/Interviews/Companies/GroupM EssenceMediaCom/MediaCom - Director of Analytics.md"}
+{"id": 1244, "text": "3. Career/Jobs/Search/Interviews/Companies/GroupM EssenceMediaCom/2022-05-10 - Micah Murray @ GroupM Essence.md"}
+{"id": 1245, "text": "3. Career/Jobs/Search/Interviews/Companies/GroupM EssenceMediaCom/2022-05-12 MediaCom Response.md"}
+{"id": 1246, "text": "3. Career/Jobs/Search/Interviews/Companies/GroupM EssenceMediaCom/2022-05-09 - Sam Lee @ GroupM Essence.md"}
+{"id": 1247, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/written-exercises/summary.md"}
+{"id": 1248, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/written-exercises/response.md"}
+{"id": 1249, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/untitled.md"}
+{"id": 1250, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/templates/project-template.md"}
+{"id": 1251, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/ownership/starmark-analytics-build-out.md"}
+{"id": 1252, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/ownership/loreal-loyalty-reports.md"}
+{"id": 1253, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/my-questions.md"}
+{"id": 1254, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/loreal-rules-based-attribution.md"}
+{"id": 1255, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/loreal-rfm-model.md"}
+{"id": 1256, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/jd-principal.md"}
+{"id": 1257, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/interview-notes/sam-santmeyer-recruiter.md"}
+{"id": 1258, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/interview-notes/kartik-bhaghavatula-principal-amm.md"}
+{"id": 1259, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/interview-notes/brett-graham-svp.md"}
+{"id": 1260, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/interview-notes/brett-graham-head-of-a-and-i-na-2.md"}
+{"id": 1261, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/interview-notes/ali-khan-head-of-a-and-i-international.md"}
+{"id": 1262, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/insist-on-highest-standards/tinuiti-team-performance.md"}
+{"id": 1263, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/insist-on-highest-standards/tinuiti-qa-template.md"}
+{"id": 1264, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/examples/tinuiti.md"}
+{"id": 1265, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/examples/tinuiti-vp-projects.md"}
+{"id": 1266, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/examples/tinuiti-team-management.md"}
+{"id": 1267, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/examples/starmark.md"}
+{"id": 1268, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/examples/merkle-loreal.md"}
+{"id": 1269, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/examples/api-and-web-automation.md"}
+{"id": 1270, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/examples/analytics-intern-curriculum.md"}
+{"id": 1271, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/earn-trust/tinuiti-vp-projects.md"}
+{"id": 1272, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/earn-trust/citymd-it-relationships.md"}
+{"id": 1273, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/e.l.f.-datorama-pov.md"}
+{"id": 1274, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/bias-for-action/tinuiti-quick-mta-with-markov.md"}
+{"id": 1275, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/bias-for-action/loreal-client-backlog-team.md"}
+{"id": 1276, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/bias-for-action/citymd-attribution.md"}
+{"id": 1277, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/deliver-results/untitled.md"}
+{"id": 1278, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/customer-obsession/use-cases-and-prototyping.md"}
+{"id": 1279, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/customer-obsession/merkle-client-backlog.md"}
+{"id": 1280, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/customer-obsession/measurement-strategy.md"}
+{"id": 1281, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/citymd-attribution.md"}
+{"id": 1282, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/README.md"}
+{"id": 1283, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/SUMMARY.md"}
+{"id": 1284, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/advanced-analytics-project-details.md"}
+{"id": 1285, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/Amazon Advertising - My Questions.md"}
+{"id": 1286, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/Amazon Leadership Principles.md"}
+{"id": 1287, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/Amazon Advertising - Principal Analytics & Media Manager.md"}
+{"id": 1288, "text": "3. Career/Jobs/Search/Interviews/Companies/Amazon/Amazon Advertising - Interview Plan.md"}
+{"id": 1289, "text": "3. Career/Jobs/Positions/Zenith/iSpot Tags Issue 202305.md"}
+{"id": 1290, "text": "3. Career/Jobs/Positions/Zenith/iSpot - TV Disrupt - 2023-04-04.md"}
+{"id": 1291, "text": "3. Career/Jobs/Positions/Zenith/Verzenio March 2023 Readout.md"}
+{"id": 1292, "text": "3. Career/Jobs/Positions/Zenith/Verzenio March 2023 Performance Report.md"}
+{"id": 1293, "text": "3. Career/Jobs/Positions/Zenith/Verzenio - Meta Efficacy Claim Test 2023Q2.md"}
+{"id": 1294, "text": "3. Career/Jobs/Positions/Zenith/Team.md"}
+{"id": 1295, "text": "3. Career/Jobs/Positions/Zenith/Taltz TikTok Reports.md"}
+{"id": 1296, "text": "3. Career/Jobs/Positions/Zenith/Taltz Addressable TV DMA Recos.md"}
+{"id": 1297, "text": "3. Career/Jobs/Positions/Zenith/Tableau Prep License Keys.md"}
+{"id": 1298, "text": "3. Career/Jobs/Positions/Zenith/TV Reporting Plan.md"}
+{"id": 1299, "text": "3. Career/Jobs/Positions/Zenith/Reporting Evolution.md"}
+{"id": 1300, "text": "3. Career/Jobs/Positions/Zenith/Publicis Benefits.md"}
+{"id": 1301, "text": "3. Career/Jobs/Positions/Zenith/Meta Tests Preview with Michael Bowgen.md"}
+{"id": 1302, "text": "3. Career/Jobs/Positions/Zenith/Meta Tests 2023.md"}
+{"id": 1303, "text": "3. Career/Jobs/Positions/Zenith/Lilly Structure.md"}
+{"id": 1304, "text": "3. Career/Jobs/Positions/Zenith/Lilly Account Credentials.md"}
+{"id": 1305, "text": "3. Career/Jobs/Positions/Zenith/Lilly Account Contacts.md"}
+{"id": 1306, "text": "3. Career/Jobs/Positions/Zenith/Lilly Account & TAAG Requests.md"}
+{"id": 1307, "text": "3. Career/Jobs/Positions/Zenith/Lilly + Zenith Email List.md"}
+{"id": 1308, "text": "3. Career/Jobs/Positions/Zenith/Final Week Reminders.md"}
+{"id": 1309, "text": "3. Career/Jobs/Positions/Zenith/Executive Summary 'Enhancements'.md"}
+{"id": 1310, "text": "3. Career/Jobs/Positions/Zenith/DEI Trainings.md"}
+{"id": 1311, "text": "3. Career/Jobs/Positions/Zenith/Campaign Objectives.md"}
+{"id": 1312, "text": "3. Career/Jobs/Positions/Zenith/CX Tool.md"}
+{"id": 1313, "text": "3. Career/Jobs/Positions/Zenith/Alchemy Email Distribution Lists.md"}
+{"id": 1314, "text": "3. Career/Jobs/Positions/Zenith/2022 Wrap Up.md"}
+{"id": 1315, "text": "3. Career/Jobs/Positions/Samsung/eCommerce.md"}
+{"id": 1316, "text": "3. Career/Jobs/Positions/Samsung/Samsung Wrapup.md"}
+{"id": 1317, "text": "3. Career/Jobs/Positions/Samsung/Samsung Separation 2024.md"}
+{"id": 1318, "text": "3. Career/Jobs/Positions/Samsung/Samsung Interviews/Samsung - Site Visit Prep.md"}
+{"id": 1319, "text": "3. Career/Jobs/Positions/Samsung/Samsung Interviews/Samsung - Saurabh in-Person Followup Note.md"}
+{"id": 1320, "text": "3. Career/Jobs/Positions/Samsung/Samsung Interviews/Samsung - Interview Prep.md"}
+{"id": 1321, "text": "3. Career/Jobs/Positions/Samsung/Samsung Interviews/Samsung - Interview Followups.md"}
+{"id": 1322, "text": "3. Career/Jobs/Positions/Samsung/Samsung Interviews/Samsung - Director CRM Activations.md"}
+{"id": 1323, "text": "3. Career/Jobs/Positions/Samsung/Samsung Claims.md"}
+{"id": 1324, "text": "3. Career/Jobs/Positions/Samsung/Samsung - Propensity Modeling.md"}
+{"id": 1325, "text": "3. Career/Jobs/Positions/Samsung/Samsung - Prep.md"}
+{"id": 1326, "text": "3. Career/Jobs/Positions/Samsung/Samsung - News.md"}
+{"id": 1327, "text": "3. Career/Jobs/Positions/Samsung/Samsung - Company Notes.md"}
+{"id": 1328, "text": "3. Career/Jobs/Positions/Samsung/Samsung - Basic Info.md"}
+{"id": 1329, "text": "3. Career/Jobs/Positions/Samsung/Samsung - Audience Research.md"}
+{"id": 1330, "text": "3. Career/Jobs/Positions/Samsung/Markets and Economics - News.md"}
+{"id": 1331, "text": "3. Career/Jobs/Positions/Samsung/LiveRamp.md"}
+{"id": 1332, "text": "3. Career/Jobs/Positions/Premer Estate Properties - 2023-07/Premier Estate Properties Project.md"}
+{"id": 1333, "text": "3. Career/Jobs/Positions/Premer Estate Properties - 2023-07/Premier Estate Properties - Mailchimp Project.md"}
+{"id": 1334, "text": "3. Career/Jobs/Positions/Premer Estate Properties - 2023-07/Premier Estate - API.md"}
+{"id": 1335, "text": "3. Career/Jobs/Positions/MDT Marketing - 2023-07/MDT Marketing - Jessup University.md"}
+{"id": 1336, "text": "3. Career/Jobs/Positions/MDT Marketing - 2023-07/MDT Marketing - Projects.md"}
+{"id": 1337, "text": "3. Career/Jobs/Positions/MDT Marketing - 2023-07/Google Analytics - Filters.md"}
+{"id": 1338, "text": "3. Career/Jobs/Positions/MDT Marketing - 2023-07/MDT Marketing - Jeff's Notes.md"}
+{"id": 1339, "text": "3. Career/Jobs/Positions/MDT Marketing - 2023-07/MDT Marketing - GA4 Transition Project.md"}
+{"id": 1340, "text": "3. Career/Jobs/Positions/MDT Marketing - 2023-07/MDT - My Prep.md"}
+{"id": 1341, "text": "3. Career/Jobs/Positions/MDT Marketing - 2023-07/Google Analytics - Standard Setup (UA).md"}
+{"id": 1342, "text": "3. Career/Jobs/Positions/MDT Marketing - 2023-07/Google Analytics - Channel Grouping.md"}
+{"id": 1343, "text": "3. Career/Jobs/Positions/MDT Marketing - 2023-07/GA4 Migration Client Narrative.md"}
+{"id": 1344, "text": "3. Career/Jobs/Positions/MDT Marketing - 2023-07/GA4 Migration Checklist.md"}
+{"id": 1345, "text": "3. Career/Jobs/Journals and Notes/Unwritten Rules of the Highly Effective Job Search.md"}
+{"id": 1346, "text": "3. Career/Jobs/Journals and Notes/Thoughts and Observations - 2024-06-08.md"}
+{"id": 1347, "text": "3. Career/Jobs/Journals and Notes/Sonic Boom.md"}
+{"id": 1348, "text": "3. Career/Jobs/Journals and Notes/Search Thread 2023.md"}
+{"id": 1349, "text": "3. Career/Jobs/Journals and Notes/Search Strategy 2023.md"}
+{"id": 1350, "text": "3. Career/Jobs/Journals and Notes/Scratch.md"}
+{"id": 1351, "text": "3. Career/Jobs/Journals and Notes/Product Manager Roles - 2026-06-10.md"}
+{"id": 1352, "text": "3. Career/Jobs/Journals and Notes/Product Management - 2024-06-10.md"}
+{"id": 1353, "text": "3. Career/Jobs/Journals and Notes/Overall Presentation.md"}
+{"id": 1354, "text": "3. Career/Jobs/Journals and Notes/My 7 Areas of Improvement.md"}
+{"id": 1355, "text": "3. Career/Jobs/Journals and Notes/Managing Up.md"}
+{"id": 1356, "text": "3. Career/Jobs/Journals and Notes/LinkedIn Jobs API.md"}
+{"id": 1357, "text": "3. Career/Jobs/Journals and Notes/Leads - May 2023.md"}
+{"id": 1358, "text": "3. Career/Jobs/Journals and Notes/Companies 2023.md"}
+{"id": 1359, "text": "3. Career/Jobs/Journals and Notes/ChatGPT - Changes in Management Priorities.md"}
+{"id": 1360, "text": "3. Career/Building/Startup Accelerators.md"}
+{"id": 1361, "text": "3. Career/Building/Product Ideas/Product Ideas.md"}
+{"id": 1362, "text": "3. Career/Building/Product Ideas/Problems + Areas of Interest.md"}
+{"id": 1363, "text": "3. Career/Building/Product Ideas/Obsidian.md"}
+{"id": 1364, "text": "3. Career/Building/Product Ideas/Knowledge Management Agent.md"}
+{"id": 1365, "text": "3. Career/Building/Product Ideas/AI & Simulation.md"}
+{"id": 1366, "text": "2. The Project/Staying on the Path.md"}
+{"id": 1367, "text": "2. The Project/Open Tasks.md"}
+{"id": 1368, "text": "2. The Project/Long-Term Reading.md"}
+{"id": 1369, "text": "2. The Project/Learning Paths/Transformers.md"}
+{"id": 1370, "text": "2. The Project/Learning Paths/Product Management.md"}
+{"id": 1371, "text": "2. The Project/Learning Paths/ML & Modeling.md"}
+{"id": 1372, "text": "2. The Project/Learning Paths/Linear Algebra.md"}
+{"id": 1373, "text": "2. The Project/Learning Paths/Calculus.md"}
+{"id": 1374, "text": "2. The Project/Learning Paths/AI Applications.md"}
+{"id": 1375, "text": "2. The Project/Learning Paths/AI & Neural Networks & LLM.md"}
+{"id": 1376, "text": "2. The Project/Data Science Skills by Industry.md"}
+{"id": 1377, "text": "2. The Project/Data Science & AI Skills.md"}
+{"id": 1378, "text": "2. The Project/Daily Reading.md"}
+{"id": 1379, "text": "2. The Project/DS Projects/Propensity & Pricing Model/Propensity & Pricing Model.md"}
+{"id": 1380, "text": "2. The Project/DS Projects/Project Drafts/Timeseries/Timeseries Resources.md"}
+{"id": 1381, "text": "2. The Project/DS Projects/Project Drafts/Timeseries/Timeseries Project 1.md"}
+{"id": 1382, "text": "2. The Project/DS Projects/Project Drafts/Summsidian/SummSidian -  Product Features.md"}
+{"id": 1383, "text": "2. The Project/DS Projects/Project Drafts/Retrieval-Augmented Generation (RAG)/Codebase Rag Project.md"}
+{"id": 1384, "text": "2. The Project/DS Projects/Project Drafts/NLP Product Feedback Analysis Project.md"}
+{"id": 1385, "text": "2. The Project/DS Projects/Product Design Guidelines.md"}
+{"id": 1386, "text": "2. The Project/DS Projects/Gitwhipper/Gitwhipper Dev Notes.md"}
+{"id": 1387, "text": "2. The Project/DS Projects/Gitwhipper/Gitwhipper = Git Workflow.md"}
+{"id": 1388, "text": "2. The Project/DS Projects/Gitwhipper/Gitwhipper - Pain Points.md"}
+{"id": 1389, "text": "2. The Project/DS Projects/Gitwhipper/GitWhipper.md"}
+{"id": 1390, "text": "2. The Project/DS Projects/Gitwhipper/GitWhipper - Feature - Commit Summary.md"}
+{"id": 1391, "text": "2. The Project/DS Projects/Data Science Projects.md"}
+{"id": 1392, "text": "2. The Project/DS Projects/DS Projects.md"}
+{"id": 1393, "text": "2. The Project/2. The Project.md"}
+{"id": 1394, "text": "1. Inbox/pipeline().md"}
+{"id": 1395, "text": "1. Inbox/mixup - Beyond Empirical Risk Minimization.md"}
+{"id": 1396, "text": "1. Inbox/Yes, Transformers are Effective for Time Series Forecasting (+Autoformer).md"}
+{"id": 1397, "text": "1. Inbox/White House AI Voluntary Commitments.md"}
+{"id": 1398, "text": "1. Inbox/What is a proper scoring rule?.md"}
+{"id": 1399, "text": "1. Inbox/What We\u2019ve Learned From A Year of Building with LLMs.md"}
+{"id": 1400, "text": "1. Inbox/Visualizing Neural Machine Translation Models (L).md"}
+{"id": 1401, "text": "1. Inbox/Venture Capital Startup Fundamentals.md"}
+{"id": 1402, "text": "1. Inbox/Unit Root.md"}
+{"id": 1403, "text": "1. Inbox/Tree of Thoughts Deliberate Problem Solving with Large Language Models.md"}
+{"id": 1404, "text": "1. Inbox/TravelPlanner A Benchmark for Real-World Planning with Language Agents.md"}
+{"id": 1405, "text": "1. Inbox/TimeGPT-1.md"}
+{"id": 1406, "text": "1. Inbox/The True Believer.md"}
+{"id": 1407, "text": "1. Inbox/The Surprising Creativity of Digital Evolution.md"}
+{"id": 1408, "text": "1. Inbox/The Llama 3 Herd of Models.md"}
+{"id": 1409, "text": "1. Inbox/The Chinese Room Argument.md"}
+{"id": 1410, "text": "1. Inbox/Text-to-Text Transfer Transformer (T5).md"}
+{"id": 1411, "text": "1. Inbox/Takeaways from Mastering LLMs Course.md"}
+{"id": 1412, "text": "1. Inbox/Survey on Factuality in Large Language Models Knowledge, Retrieval and Domain-Specificity.md"}
+{"id": 1413, "text": "1. Inbox/SuperGLUE.md"}
+{"id": 1414, "text": "1. Inbox/Structure Discovery in Nonparametric Regression through Compositional Kernel Search.md"}
+{"id": 1415, "text": "1. Inbox/Stealing Part of a Production Language Model.md"}
+{"id": 1416, "text": "1. Inbox/Statistical exponential families - A digest with flash cards.md"}
+{"id": 1417, "text": "1. Inbox/Stanford Institute for Human-Centered Artificial Intelligence (HAI).md"}
+{"id": 1418, "text": "1. Inbox/Standardization vs Normalization vs Transformation.md"}
+{"id": 1419, "text": "1. Inbox/Specification Gaming - the flip side of AI Ingenuity.md"}
+{"id": 1420, "text": "1. Inbox/Softmax.md"}
+{"id": 1421, "text": "1. Inbox/Self-Consistency Improves Chain of Thought Reasoning in Language Models.md"}
+{"id": 1422, "text": "1. Inbox/Segment Anything Model 2 (SAM 2).md"}
+{"id": 1423, "text": "1. Inbox/Search Thread 2024-06.md"}
+{"id": 1424, "text": "1. Inbox/Scalable Nearest Neighbors (ScaNN).md"}
+{"id": 1425, "text": "1. Inbox/Scalable Agent Alignment via Reward Modeling.md"}
+{"id": 1426, "text": "1. Inbox/Retrieval-Augmented Generation (RAG).md"}
+{"id": 1427, "text": "1. Inbox/Retrieval Augmented Generation (RAG).md"}
+{"id": 1428, "text": "1. Inbox/Response Surface Methods (RSM).md"}
+{"id": 1429, "text": "1. Inbox/Reinforcement Learning.md"}
+{"id": 1430, "text": "1. Inbox/Red Teaming Language Models to Reduce Harms Methods, Scaling Behaviors, and Lessons Learned.md"}
+{"id": 1431, "text": "1. Inbox/ROC AUC Issues.md"}
+{"id": 1432, "text": "1. Inbox/RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold.md"}
+{"id": 1433, "text": "1. Inbox/Queueing Theory.md"}
+{"id": 1434, "text": "1. Inbox/Quadratic Equation.md"}
+{"id": 1435, "text": "1. Inbox/Put Your Money Where Your Mouth Is Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena.md"}
+{"id": 1436, "text": "1. Inbox/Prompt Design and Engineering Introduction and Advanced Methods.md"}
+{"id": 1437, "text": "1. Inbox/Product Cause & Effect Model.md"}
+{"id": 1438, "text": "1. Inbox/Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo.md"}
+{"id": 1439, "text": "1. Inbox/Predicting Results of Social Science Experiments Using Large Language Models.md"}
+{"id": 1440, "text": "1. Inbox/Predictability and Surprise in Large Generative Models.md"}
+{"id": 1441, "text": "1. Inbox/Position - Measure Dataset Diversity, Don't Just Claim It.md"}
+{"id": 1442, "text": "1. Inbox/Parameterizing Quadratic Equations.md"}
+{"id": 1443, "text": "1. Inbox/Open Source Synthetic Data.md"}
+{"id": 1444, "text": "1. Inbox/One-Shot and Few-Shot Learning.md"}
+{"id": 1445, "text": "1. Inbox/On the Opportunities and Risks of Foundation Models.md"}
+{"id": 1446, "text": "1. Inbox/On the Dangers of Stochastic Parrots.md"}
+{"id": 1447, "text": "1. Inbox/OI Stats - 7.5 comparing many means with ANOVA.md"}
+{"id": 1448, "text": "1. Inbox/Nike - An Epic Saga of Value Destruction.md"}
+{"id": 1449, "text": "1. Inbox/Neural Networks - Zero to Hero.md"}
+{"id": 1450, "text": "1. Inbox/Neural Network Algorithms - 2024-06-16.md"}
+{"id": 1451, "text": "1. Inbox/Named Entity Recognition.md"}
+{"id": 1452, "text": "1. Inbox/NLP Course - Hugging Face.md"}
+{"id": 1453, "text": "1. Inbox/Monash Time Series Forecasting Archive - 2024-08-03.md"}
+{"id": 1454, "text": "1. Inbox/Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks.md"}
+{"id": 1455, "text": "1. Inbox/Model.md"}
+{"id": 1456, "text": "1. Inbox/Model Evaluation for Extreme Risks.md"}
+{"id": 1457, "text": "1. Inbox/Model Evaluation and Threat Research (METR).md"}
+{"id": 1458, "text": "1. Inbox/Metacognitive Prompting Improves Understanding in Large Language Models.md"}
+{"id": 1459, "text": "1. Inbox/Massive Multitask Language Understanding (MMLU).md"}
+{"id": 1460, "text": "1. Inbox/Massive Multitask Language Understanding (MMLU) on HELM.md"}
+{"id": 1461, "text": "1. Inbox/MMLU-Pro A More Robust and Challenging Multi-Task Language Understanding Benchmark.md"}
+{"id": 1462, "text": "1. Inbox/Long-Term Benefit Trust - Anthropic.md"}
+{"id": 1463, "text": "1. Inbox/Logistic Function.md"}
+{"id": 1464, "text": "1. Inbox/Log Loss Score.md"}
+{"id": 1465, "text": "1. Inbox/Linear Goal Programming.md"}
+{"id": 1466, "text": "1. Inbox/LightGBM.md"}
+{"id": 1467, "text": "1. Inbox/Levenshtein Distance.md"}
+{"id": 1468, "text": "1. Inbox/Lessons Learned Building Products Powered by Generative AI - Buzzfeed.md"}
+{"id": 1469, "text": "1. Inbox/Least-to-Most Prompting Enables Complex Reasoning in Large Language Models.md"}
+{"id": 1470, "text": "1. Inbox/Latent Dirichlet Allocation.md"}
+{"id": 1471, "text": "1. Inbox/Labonne LLM Course.md"}
+{"id": 1472, "text": "1. Inbox/LM Evaluation Harness - Eleuther AI.md"}
+{"id": 1473, "text": "1. Inbox/LLM Quantization.md"}
+{"id": 1474, "text": "1. Inbox/LLM Observability & Evaluation.md"}
+{"id": 1475, "text": "1. Inbox/LLM Frameworks.md"}
+{"id": 1476, "text": "1. Inbox/KPSS Test.md"}
+{"id": 1477, "text": "1. Inbox/Javascript Knowledge Map.md"}
+{"id": 1478, "text": "1. Inbox/Introduction to Econometrics with R.md"}
+{"id": 1479, "text": "1. Inbox/Interpretable Machine Learning.md"}
+{"id": 1480, "text": "1. Inbox/Integration - SciPy.md"}
+{"id": 1481, "text": "1. Inbox/HuggingFace Transformers.md"}
+{"id": 1482, "text": "1. Inbox/How to Build Anything Extremely Quickly - Learn How To Learn.md"}
+{"id": 1483, "text": "1. Inbox/Holistic Evaluation of Language Models (HELM).md"}
+{"id": 1484, "text": "1. Inbox/Hilarious cutups.md"}
+{"id": 1485, "text": "1. Inbox/Grokking - Generalization Beyond Overfitting on Small Algorithmic Datasets.md"}
+{"id": 1486, "text": "1. Inbox/Google Colab.md"}
+{"id": 1487, "text": "1. Inbox/Go-to-Market (GTM).md"}
+{"id": 1488, "text": "1. Inbox/Game Theory I - Coursera.md"}
+{"id": 1489, "text": "1. Inbox/GPT-4 Technical Report.md"}
+{"id": 1490, "text": "1. Inbox/Future ML Systems Will Be Qualitatively Different.md"}
+{"id": 1491, "text": "1. Inbox/Frontier risk and preparedness - OpenAI.md"}
+{"id": 1492, "text": "1. Inbox/Frontier Threats Red Teaming for AI Safety.md"}
+{"id": 1493, "text": "1. Inbox/From Language Modeling to Instruction Following Understanding the Behavior Shift in LLMs after Instruction Tuning.md"}
+{"id": 1494, "text": "1. Inbox/Fine-tuning LLMs for Sentiment Analysis.md"}
+{"id": 1495, "text": "1. Inbox/Extracting Concepts from LLMs Anthropic\u2019s recent discoveries.md"}
+{"id": 1496, "text": "1. Inbox/Emma Fanning - Harnham 2024-07-03.md"}
+{"id": 1497, "text": "1. Inbox/Emergent Abilities of Large Language Models.md"}
+{"id": 1498, "text": "1. Inbox/Embeddings.md"}
+{"id": 1499, "text": "1. Inbox/Embeddings in Machine Learning - Everything You Need to Know.md"}
+{"id": 1500, "text": "1. Inbox/Drywall Repairs.md"}
+{"id": 1501, "text": "1. Inbox/DisCor Corrective Feedback in Reinforcement Learning via Distribution Correction.md"}
+{"id": 1502, "text": "1. Inbox/Differencing.md"}
+{"id": 1503, "text": "1. Inbox/Detrending.md"}
+{"id": 1504, "text": "1. Inbox/Deploying Transformer Models in Apps.md"}
+{"id": 1505, "text": "1. Inbox/Deepmind Frontier Safety Framework.md"}
+{"id": 1506, "text": "1. Inbox/DeepAR Probabilistic Forecasting with Autoregressive Recurrent Networks.md"}
+{"id": 1507, "text": "1. Inbox/Deep Learning for Time Series Forecasting Tutorial and Literature Survey.md"}
+{"id": 1508, "text": "1. Inbox/Deep Learning - MIT Press.md"}
+{"id": 1509, "text": "1. Inbox/Decoupled Weight Decay Regularization (AdamW).md"}
+{"id": 1510, "text": "1. Inbox/BM25 for Python (BM25S).md"}
+{"id": 1511, "text": "1. Inbox/DDK Distilling Domain Knowledge for Efficient Large Language Models.md"}
+{"id": 1512, "text": "1. Inbox/Cutup App.md"}
+{"id": 1513, "text": "1. Inbox/Cross-Entropy.md"}
+{"id": 1514, "text": "1. Inbox/Content Development.md"}
+{"id": 1515, "text": "1. Inbox/Constrained Sampling from Distributions.md"}
+{"id": 1516, "text": "1. Inbox/Constitutional AI - Harmlessness from AI Feedback.md"}
+{"id": 1517, "text": "1. Inbox/Chronos - Learning the Language of Time Series.md"}
+{"id": 1518, "text": "1. Inbox/Challenges in Evaluating AI systems.md"}
+{"id": 1519, "text": "1. Inbox/Brier Score.md"}
+{"id": 1520, "text": "1. Inbox/Bias Benchmark for Question Answering (BBQ).md"}
+{"id": 1521, "text": "1. Inbox/BIG-Bench Hard.md"}
+{"id": 1522, "text": "1. Inbox/BERTology - HuggingFace.md"}
+{"id": 1523, "text": "1. Inbox/Autoregressive Model.md"}
+{"id": 1524, "text": "1. Inbox/Auctions and Bidding - A Guide for Computer Scientists.md"}
+{"id": 1525, "text": "1. Inbox/Are Emergent Abilities in Large Language Models just In-Context Learning?.md"}
+{"id": 1526, "text": "1. Inbox/Apple Intelligence Foundation Language Models.md"}
+{"id": 1527, "text": "1. Inbox/App Serving - FastAPI + Uvicorn + Nginx.md"}
+{"id": 1528, "text": "1. Inbox/Anthropic's Responsible Scaling Policy (RSP).md"}
+{"id": 1529, "text": "1. Inbox/An intuitive introduction to text embeddings.md"}
+{"id": 1530, "text": "1. Inbox/An Early Warning System for Novel AI Risks.md"}
+{"id": 1531, "text": "1. Inbox/An Analysis of Chinese LLM Censorship and Bias with Qwen 2 Instruct.md"}
+{"id": 1532, "text": "1. Inbox/Alignment of Language Agents.md"}
+{"id": 1533, "text": "1. Inbox/Agile + Scrum.md"}
+{"id": 1534, "text": "1. Inbox/AgentBench - Evaluating LLMs as Agents.md"}
+{"id": 1535, "text": "1. Inbox/Adapting language model architectures for time series forecasting (Chronos).md"}
+{"id": 1536, "text": "1. Inbox/Adam A Method for Stochastic Optimization.md"}
+{"id": 1537, "text": "1. Inbox/AI models collapse when trained on recursively generated data.md"}
+{"id": 1538, "text": "1. Inbox/AI Index Report 2024 \u2013 Artificial Intelligence Index.md"}
+{"id": 1539, "text": "1. Inbox/AI Alignment Testing - Research Working Note.md"}
+{"id": 1540, "text": "1. Inbox/ADF Test.md"}
+{"id": 1541, "text": "1. Inbox/A brief tutorial on information theory.md"}
+{"id": 1542, "text": "1. Inbox/A Survey of Large Language Models.md"}
+{"id": 1543, "text": "1. Inbox/A Friendly Introduction to Recurrent Neural Networks (L).md"}
+{"id": 1544, "text": "1. Inbox/A Friendly Introduction to Deep Learning and Neural Networks (L).md"}
+{"id": 1545, "text": "1. Inbox/A Brief Overview of Gender Bias in AI.md"}
+{"id": 1546, "text": "0. Daily Notes/2024-08-12 Weekly.md"}
+{"id": 1547, "text": "0. Daily Notes/2024-07-29 Weekly.md"}
+{"id": 1548, "text": "0. Daily Notes/2024-07-22 Weekly.md"}
+{"id": 1549, "text": "0. Daily Notes/2024-07-21.md"}
+{"id": 1550, "text": "0. Daily Notes/2024-07-08 Weekly.md"}
+{"id": 1551, "text": "0. Daily Notes/2024-07-01.md"}
+{"id": 1552, "text": "0. Daily Notes/2024-06-24.md"}
+{"id": 1553, "text": "0. Daily Notes/2024-06-10.md"}
+{"id": 1554, "text": "0. Daily Notes/2024-06-10 Weekly.md"}
+{"id": 1555, "text": "0. Daily Notes/2024-06-03.md"}
+{"id": 1556, "text": "0. Daily Notes/2024-05-27.md"}
+{"id": 1557, "text": "0. Daily Notes/2024-05-20.md"}
+{"id": 1558, "text": "0. Daily Notes/2024-05-19.md"}
+{"id": 1559, "text": "0. Daily Notes/2024-05-14.md"}
+{"id": 1560, "text": "0. Daily Notes/2024-04-23.md"}
+{"id": 1561, "text": "0. Daily Notes/2024-04-09.md"}
+{"id": 1562, "text": "0. Daily Notes/2024-04-08.md"}
+{"id": 1563, "text": "0. Daily Notes/2024-04-04.md"}
+{"id": 1564, "text": "0. Daily Notes/2024-03-31.md"}
+{"id": 1565, "text": "0. Daily Notes/2024-02-25.md"}
+{"id": 1566, "text": "0. Daily Notes/2023-12-12.md"}
+{"id": 1567, "text": "0. Daily Notes/2023-12-11.md"}
+{"id": 1568, "text": "0. Daily Notes/2023-11-05.md"}
+{"id": 1569, "text": "0. Daily Notes/2023-10-29.md"}
+{"id": 1570, "text": "0. Daily Notes/2023-10-07.md"}
+{"id": 1571, "text": "0. Daily Notes/2023-09-23.md"}
+{"id": 1572, "text": "0. Daily Notes/2023-08-11.md"}
+{"id": 1573, "text": "0. Daily Notes/2023-08-08.md"}
+{"id": 1574, "text": "0. Daily Notes/2023-08-04.md"}
+{"id": 1575, "text": "0. Daily Notes/2023-07-31.md"}
+{"id": 1576, "text": "0. Daily Notes/2023-07-28.md"}
+{"id": 1577, "text": "0. Daily Notes/2023-07-27.md"}
+{"id": 1578, "text": "0. Daily Notes/2023-07-26.md"}
+{"id": 1579, "text": "0. Daily Notes/2023-07-25.md"}
+{"id": 1580, "text": "0. Daily Notes/2023-07-24.md"}
+{"id": 1581, "text": "0. Daily Notes/2023-07-20.md"}
+{"id": 1582, "text": "0. Daily Notes/2023-07-19.md"}
+{"id": 1583, "text": "0. Daily Notes/2023-07-18.md"}
+{"id": 1584, "text": "0. Daily Notes/2023-07-14.md"}
+{"id": 1585, "text": "0. Daily Notes/2023-07-12.md"}
+{"id": 1586, "text": "0. Daily Notes/2023-07-10.md"}
+{"id": 1587, "text": "0. Daily Notes/2023-07-08.md"}
+{"id": 1588, "text": "0. Daily Notes/2023-07-06.md"}
+{"id": 1589, "text": "0. Daily Notes/2023-07-03.md"}
+{"id": 1590, "text": "0. Daily Notes/2023-06-30.md"}
+{"id": 1591, "text": "0. Daily Notes/2023-06-28.md"}
+{"id": 1592, "text": "0. Daily Notes/2023-06-27.md"}
+{"id": 1593, "text": "0. Daily Notes/2023-06-26.md"}
+{"id": 1594, "text": "0. Daily Notes/2023-06-16.md"}
+{"id": 1595, "text": "0. Daily Notes/2023-06-22.md"}
+{"id": 1596, "text": "0. Daily Notes/2023-06-21.md"}
+{"id": 1597, "text": "0. Daily Notes/2023-06-20.md"}
+{"id": 1598, "text": "0. Daily Notes/2023-06-19.md"}
+{"id": 1599, "text": "0. Daily Notes/2023-06-18.md"}
+{"id": 1600, "text": "0. Daily Notes/2023-06-15.md"}
+{"id": 1601, "text": "0. Daily Notes/2023-06-14.md"}
+{"id": 1602, "text": "0. Daily Notes/2023-06-13.md"}
+{"id": 1603, "text": "0. Daily Notes/2023-06-09.md"}
+{"id": 1604, "text": "0. Daily Notes/2023-06-07.md"}
+{"id": 1605, "text": "0. Daily Notes/2023-06-07 2.md"}
+{"id": 1606, "text": "0. Daily Notes/2023-06-06.md"}
+{"id": 1607, "text": "0. Daily Notes/2023-06-05.md"}
+{"id": 1608, "text": "0. Daily Notes/2023-06-03.md"}
+{"id": 1609, "text": "0. Daily Notes/2023-06-01.md"}
+{"id": 1610, "text": "0. Daily Notes/2023-05-31.md"}
+{"id": 1611, "text": "0. Daily Notes/2023-05-30.md"}
+{"id": 1612, "text": "0. Daily Notes/2023-05-29.md"}
+{"id": 1613, "text": "0. Daily Notes/2023-05-27.md"}
+{"id": 1614, "text": "0. Daily Notes/2023-05-26.md"}
+{"id": 1615, "text": "0. Daily Notes/2023-05-25.md"}
+{"id": 1616, "text": "0. Daily Notes/2023-05-23.md"}
+{"id": 1617, "text": "0. Daily Notes/2023-05-22.md"}
+{"id": 1618, "text": "0. Daily Notes/2023-05-21.md"}
+{"id": 1619, "text": "0. Daily Notes/2023-05-20.md"}
+{"id": 1620, "text": "0. Daily Notes/2023-05-18.md"}
+{"id": 1621, "text": "0. Daily Notes/2023-05-19.md"}
+{"id": 1622, "text": "0. Daily Notes/2023-05-17.md"}
+{"id": 1623, "text": "0. Daily Notes/2023-05-16.md"}
+{"id": 1624, "text": "0. Daily Notes/2022-12-29.md"}
+{"id": 1625, "text": "0. Daily Notes/2023-05-15.md"}
+{"id": 1626, "text": "0. Daily Notes/2023-05-13.md"}
+{"id": 1627, "text": "0. Daily Notes/2023-05-12.md"}
+{"id": 1628, "text": "0. Daily Notes/2023-05-11.md"}
+{"id": 1629, "text": "0. Daily Notes/2023-05-10.md"}
+{"id": 1630, "text": "0. Daily Notes/2023-05-09.md"}
+{"id": 1631, "text": "0. Daily Notes/2023-05-08.md"}
+{"id": 1632, "text": "0. Daily Notes/2023-05-05.md"}
+{"id": 1633, "text": "0. Daily Notes/2023-05-04.md"}
+{"id": 1634, "text": "0. Daily Notes/2023-05-03.md"}
+{"id": 1635, "text": "0. Daily Notes/2023-05-02.md"}
+{"id": 1636, "text": "0. Daily Notes/2023-05-01.md"}
+{"id": 1637, "text": "0. Daily Notes/2023-04-30.md"}
+{"id": 1638, "text": "0. Daily Notes/2023-04-28.md"}
+{"id": 1639, "text": "0. Daily Notes/2023-04-27.md"}
+{"id": 1640, "text": "0. Daily Notes/2023-04-26.md"}
+{"id": 1641, "text": "0. Daily Notes/2023-04-25.md"}
+{"id": 1642, "text": "0. Daily Notes/2023-04-24.md"}
+{"id": 1643, "text": "0. Daily Notes/2023-04-23.md"}
+{"id": 1644, "text": "0. Daily Notes/2023-04-22.md"}
+{"id": 1645, "text": "0. Daily Notes/2023-04-21.md"}
+{"id": 1646, "text": "0. Daily Notes/2023-04-20.md"}
+{"id": 1647, "text": "0. Daily Notes/2023-04-19.md"}
+{"id": 1648, "text": "0. Daily Notes/2023-04-18.md"}
+{"id": 1649, "text": "0. Daily Notes/2023-04-17.md"}
+{"id": 1650, "text": "0. Daily Notes/2023-04-16.md"}
+{"id": 1651, "text": "0. Daily Notes/2023-04-15.md"}
+{"id": 1652, "text": "0. Daily Notes/2023-04-14.md"}
+{"id": 1653, "text": "0. Daily Notes/2023-04-13.md"}
+{"id": 1654, "text": "0. Daily Notes/2023-04-12.md"}
+{"id": 1655, "text": "0. Daily Notes/2023-04-09.md"}
+{"id": 1656, "text": "0. Daily Notes/2023-04-07.md"}
+{"id": 1657, "text": "0. Daily Notes/2023-04-06.md"}
+{"id": 1658, "text": "0. Daily Notes/2023-04-05.md"}
+{"id": 1659, "text": "0. Daily Notes/2023-04-04.md"}
+{"id": 1660, "text": "0. Daily Notes/2023-04-03.md"}
+{"id": 1661, "text": "0. Daily Notes/2023-03-30.md"}
+{"id": 1662, "text": "0. Daily Notes/2023-03-29.md"}
+{"id": 1663, "text": "0. Daily Notes/2023-03-28.md"}
+{"id": 1664, "text": "0. Daily Notes/2023-03-27.md"}
+{"id": 1665, "text": "0. Daily Notes/2023-03-26.md"}
+{"id": 1666, "text": "0. Daily Notes/2023-03-25.md"}
+{"id": 1667, "text": "0. Daily Notes/2023-03-24.md"}
+{"id": 1668, "text": "0. Daily Notes/2023-03-21.md"}
+{"id": 1669, "text": "0. Daily Notes/2023-03-20.md"}
+{"id": 1670, "text": "0. Daily Notes/2023-03-19.md"}
+{"id": 1671, "text": "0. Daily Notes/2023-03-18.md"}
+{"id": 1672, "text": "0. Daily Notes/2023-03-16.md"}
+{"id": 1673, "text": "0. Daily Notes/2023-03-15.md"}
+{"id": 1674, "text": "0. Daily Notes/2023-03-14.md"}
+{"id": 1675, "text": "0. Daily Notes/2023-03-13.md"}
+{"id": 1676, "text": "0. Daily Notes/2023-03-12.md"}
+{"id": 1677, "text": "0. Daily Notes/2023-03-10.md"}
+{"id": 1678, "text": "0. Daily Notes/2023-03-09.md"}
+{"id": 1679, "text": "0. Daily Notes/2023-03-08.md"}
+{"id": 1680, "text": "0. Daily Notes/2023-03-07.md"}
+{"id": 1681, "text": "0. Daily Notes/2023-03-06.md"}
+{"id": 1682, "text": "0. Daily Notes/2023-03-04.md"}
+{"id": 1683, "text": "0. Daily Notes/2023-03-03.md"}
+{"id": 1684, "text": "0. Daily Notes/2023-03-02.md"}
+{"id": 1685, "text": "0. Daily Notes/2023-03-01.md"}
+{"id": 1686, "text": "0. Daily Notes/2023-02-28.md"}
+{"id": 1687, "text": "0. Daily Notes/2023-02-27.md"}
+{"id": 1688, "text": "0. Daily Notes/2023-02-26.md"}
+{"id": 1689, "text": "0. Daily Notes/2023-02-25.md"}
+{"id": 1690, "text": "0. Daily Notes/2023-02-24.md"}
+{"id": 1691, "text": "0. Daily Notes/2023-02-23.md"}
+{"id": 1692, "text": "0. Daily Notes/2023-02-22.md"}
+{"id": 1693, "text": "0. Daily Notes/2023-02-21.md"}
+{"id": 1694, "text": "0. Daily Notes/2023-02-17.md"}
+{"id": 1695, "text": "0. Daily Notes/2023-02-20.md"}
+{"id": 1696, "text": "0. Daily Notes/2023-02-16.md"}
+{"id": 1697, "text": "0. Daily Notes/2023-02-15.md"}
+{"id": 1698, "text": "0. Daily Notes/2023-02-14.md"}
+{"id": 1699, "text": "0. Daily Notes/2023-02-13.md"}
+{"id": 1700, "text": "0. Daily Notes/2023-02-12.md"}
+{"id": 1701, "text": "0. Daily Notes/2023-02-11.md"}
+{"id": 1702, "text": "0. Daily Notes/2023-02-10.md"}
+{"id": 1703, "text": "0. Daily Notes/2023-02-08.md"}
+{"id": 1704, "text": "0. Daily Notes/2023-02-07.md"}
+{"id": 1705, "text": "0. Daily Notes/2023-02-02.md"}
+{"id": 1706, "text": "0. Daily Notes/2023-02-06.md"}
+{"id": 1707, "text": "0. Daily Notes/2023-02-01.md"}
+{"id": 1708, "text": "0. Daily Notes/2023-01-23.md"}
+{"id": 1709, "text": "0. Daily Notes/2023-01-31.md"}
+{"id": 1710, "text": "0. Daily Notes/2023-01-26.md"}
+{"id": 1711, "text": "0. Daily Notes/2023-01-24.md"}
+{"id": 1712, "text": "0. Daily Notes/2023-01-19.md"}
+{"id": 1713, "text": "0. Daily Notes/2023-01-18.md"}
+{"id": 1714, "text": "0. Daily Notes/2023-01-10.md"}
+{"id": 1715, "text": "0. Daily Notes/2023-01-09.md"}
+{"id": 1716, "text": "0. Daily Notes/2023-01-08.md"}
+{"id": 1717, "text": "0. Daily Notes/2023-01-07.md"}
+{"id": 1718, "text": "0. Daily Notes/2023-01-03.md"}
+{"id": 1719, "text": "0. Daily Notes/2022-12-30.md"}
+{"id": 1720, "text": "0. Daily Notes/2022-12-27.md"}
+{"id": 1721, "text": "0. Daily Notes/2022-12-22.md"}
+{"id": 1722, "text": "0. Daily Notes/2022-11-11.md"}
+{"id": 1723, "text": "0. Daily Notes/2022-12-21.md"}
+{"id": 1724, "text": "0. Daily Notes/2022-12-20.md"}
+{"id": 1725, "text": "0. Daily Notes/2022-12-13.md"}
+{"id": 1726, "text": "0. Daily Notes/2022-12-08.md"}
+{"id": 1727, "text": "0. Daily Notes/2022-12-07.md"}
+{"id": 1728, "text": "0. Daily Notes/2022-12-06.md"}
+{"id": 1729, "text": "0. Daily Notes/2022-12-05.md"}
+{"id": 1730, "text": "0. Daily Notes/2022-12-03.md"}
+{"id": 1731, "text": "0. Daily Notes/2022-11-29.md"}
+{"id": 1732, "text": "0. Daily Notes/2022-11-28.md"}
+{"id": 1733, "text": "0. Daily Notes/2022-11-26.md"}
+{"id": 1734, "text": "0. Daily Notes/2022-11-25.md"}
+{"id": 1735, "text": "0. Daily Notes/2022-11-23.md"}
+{"id": 1736, "text": "0. Daily Notes/2022-11-22.md"}
+{"id": 1737, "text": "0. Daily Notes/2022-11-21.md"}
+{"id": 1738, "text": "0. Daily Notes/2022-11-18.md"}
+{"id": 1739, "text": "0. Daily Notes/2022-11-17.md"}
+{"id": 1740, "text": "0. Daily Notes/2022-11-16.md"}
+{"id": 1741, "text": "0. Daily Notes/2022-11-15.md"}
+{"id": 1742, "text": "0. Daily Notes/2022-11-09.md"}
+{"id": 1743, "text": "0. Daily Notes/2022-11-08.md"}
+{"id": 1744, "text": "0. Daily Notes/2022-11-07.md"}
+{"id": 1745, "text": "0. Daily Notes/2022-11-05.md"}
+{"id": 1746, "text": "0. Daily Notes/2022-11-04.md"}
+{"id": 1747, "text": "0. Daily Notes/2022-11-02.md"}
+{"id": 1748, "text": "0. Daily Notes/2022-10-31.md"}
+{"id": 1749, "text": "0. Daily Notes/2022-11-01.md"}
+{"id": 1750, "text": "0. Daily Notes/2022-10-17.md"}
+{"id": 1751, "text": "0. Daily Notes/2022-10-28.md"}
+{"id": 1752, "text": "0. Daily Notes/2022-10-25.md"}
+{"id": 1753, "text": "0. Daily Notes/2022-10-24.md"}
+{"id": 1754, "text": "0. Daily Notes/2022-10-22.md"}
+{"id": 1755, "text": "0. Daily Notes/2022-10-20.md"}
+{"id": 1756, "text": "0. Daily Notes/2022-10-19.md"}
+{"id": 1757, "text": "0. Daily Notes/2022-10-18.md"}
+{"id": 1758, "text": "0. Daily Notes/2022-10-14.md"}
+{"id": 1759, "text": "0. Daily Notes/2022-10-13.md"}
+{"id": 1760, "text": "0. Daily Notes/2022-10-04.md"}
+{"id": 1761, "text": "0. Daily Notes/2022-10-12.md"}
+{"id": 1762, "text": "0. Daily Notes/2022-10-10.md"}
+{"id": 1763, "text": "0. Daily Notes/2022-10-08.md"}
+{"id": 1764, "text": "0. Daily Notes/2022-10-07.md"}
+{"id": 1765, "text": "0. Daily Notes/2022-10-06.md"}
+{"id": 1766, "text": "0. Daily Notes/2022-09-29.md"}
+{"id": 1767, "text": "0. Daily Notes/2022-09-26.md"}
+{"id": 1768, "text": "0. Daily Notes/2022-09-22.md"}
+{"id": 1769, "text": "0. Daily Notes/2022-09-17.md"}
+{"id": 1770, "text": "0. Daily Notes/2022-09-16.md"}
+{"id": 1771, "text": "0. Daily Notes/2022-09-06.md"}
+{"id": 1772, "text": "0. Daily Notes/2022-09-14.md"}
+{"id": 1773, "text": "0. Daily Notes/2022-09-13.md"}
+{"id": 1774, "text": "0. Daily Notes/2022-09-12.md"}
+{"id": 1775, "text": "0. Daily Notes/2022-09-09.md"}
+{"id": 1776, "text": "0. Daily Notes/2022-09-08.md"}
+{"id": 1777, "text": "0. Daily Notes/2022-09-07.md"}
+{"id": 1778, "text": "0. Daily Notes/2022-09-02.md"}
+{"id": 1779, "text": "0. Daily Notes/2022-09-01.md"}
+{"id": 1780, "text": "0. Daily Notes/2022-08-19.md"}
+{"id": 1781, "text": "0. Daily Notes/2022-08-31.md"}
+{"id": 1782, "text": "0. Daily Notes/2022-08-29.md"}
+{"id": 1783, "text": "0. Daily Notes/2022-08-23.md"}
+{"id": 1784, "text": "0. Daily Notes/2022-08-22.md"}
+{"id": 1785, "text": "0. Daily Notes/2022-08-21.md"}
+{"id": 1786, "text": "0. Daily Notes/2022-08-20.md"}
+{"id": 1787, "text": "0. Daily Notes/2022-08-18.md"}
+{"id": 1788, "text": "0. Daily Notes/2022-08-17.md"}
+{"id": 1789, "text": "0. Daily Notes/2022-07-13.md"}
+{"id": 1790, "text": "0. Daily Notes/2022-08-11.md"}
+{"id": 1791, "text": "0. Daily Notes/2022-08-10.md"}
+{"id": 1792, "text": "0. Daily Notes/2022-08-01.md"}
+{"id": 1793, "text": "0. Daily Notes/2022-07-19.md"}
+{"id": 1794, "text": "0. Daily Notes/2022-07-15.md"}
+{"id": 1795, "text": "0. Daily Notes/2022-07-14.md"}
+{"id": 1796, "text": "0. Daily Notes/2022-07-11.md"}
+{"id": 1797, "text": "0. Daily Notes/2022-07-06.md"}
+{"id": 1798, "text": "0. Daily Notes/2022-07-02.md"}
+{"id": 1799, "text": "0. Daily Notes/2022-05-10.md"}
+{"id": 1800, "text": "0. Daily Notes/2022-06-27.md"}
+{"id": 1801, "text": "0. Daily Notes/2022-07-01.md"}
+{"id": 1802, "text": "0. Daily Notes/2022-06-30.md"}
+{"id": 1803, "text": "0. Daily Notes/2022-06-29.md"}
+{"id": 1804, "text": "0. Daily Notes/2022-06-26.md"}
+{"id": 1805, "text": "0. Daily Notes/2022-06-24.md"}
+{"id": 1806, "text": "0. Daily Notes/2022-06-15.md"}
+{"id": 1807, "text": "0. Daily Notes/2022-06-23.md"}
+{"id": 1808, "text": "0. Daily Notes/2022-06-22.md"}
+{"id": 1809, "text": "0. Daily Notes/2022-06-21.md"}
+{"id": 1810, "text": "0. Daily Notes/2022-06-16.md"}
+{"id": 1811, "text": "0. Daily Notes/2022-06-10.md"}
+{"id": 1812, "text": "0. Daily Notes/2022-06-02.md"}
+{"id": 1813, "text": "0. Daily Notes/2022-06-08.md"}
+{"id": 1814, "text": "0. Daily Notes/2022-06-07.md"}
+{"id": 1815, "text": "0. Daily Notes/2022-06-06.md"}
+{"id": 1816, "text": "0. Daily Notes/2022-06-03.md"}
+{"id": 1817, "text": "0. Daily Notes/2022-06-01.md"}
+{"id": 1818, "text": "0. Daily Notes/2022-05-25.md"}
+{"id": 1819, "text": "0. Daily Notes/2022-05-27.md"}
+{"id": 1820, "text": "0. Daily Notes/2022-05-26.md"}
+{"id": 1821, "text": "0. Daily Notes/2022-05-24.md"}
+{"id": 1822, "text": "0. Daily Notes/2022-05-23.md"}
+{"id": 1823, "text": "0. Daily Notes/2022-05-21.md"}
+{"id": 1824, "text": "0. Daily Notes/2022-05-20.md"}
+{"id": 1825, "text": "0. Daily Notes/2022-05-19.md"}
+{"id": 1826, "text": "0. Daily Notes/2022-05-18.md"}
+{"id": 1827, "text": "0. Daily Notes/2022-05-11.md"}
+{"id": 1828, "text": "0. Daily Notes/2022-05-09.md"}
+{"id": 1829, "text": "0. Daily Notes/2022-05-04.md"}
+{"id": 1830, "text": "0. Daily Notes/2022-04-19.md"}
+{"id": 1831, "text": "0. Daily Notes/2022-05-02.md"}
+{"id": 1832, "text": "0. Daily Notes/2022-04-30.md"}
+{"id": 1833, "text": "0. Daily Notes/2022-04-29.md"}
+{"id": 1834, "text": "0. Daily Notes/2022-04-28.md"}
+{"id": 1835, "text": "0. Daily Notes/2022-04-27.md"}
+{"id": 1836, "text": "0. Daily Notes/2022-04-26.md"}
+{"id": 1837, "text": "0. Daily Notes/2022-04-25.md"}
+{"id": 1838, "text": "0. Daily Notes/2022-04-22.md"}
+{"id": 1839, "text": "0. Daily Notes/2022-04-21.md"}
+{"id": 1840, "text": "0. Daily Notes/2022-04-20.md"}
+{"id": 1841, "text": "0. Daily Notes/2022-04-18.md"}
+{"id": 1842, "text": "0. Daily Notes/2022-04-14.md"}
+{"id": 1843, "text": "0. Daily Notes/2022-04-13.md"}
+{"id": 1844, "text": "0. Daily Notes/2022-04-12.md"}
+{"id": 1845, "text": "0. Daily Notes/2022-04-11.md"}
+{"id": 1846, "text": "0. Daily Notes/2022-04-10.md"}
+{"id": 1847, "text": "0. Daily Notes/2022-04-08.md"}
+{"id": 1848, "text": "0. Daily Notes/2022-04-06.md"}
+{"id": 1849, "text": "0. Daily Notes/2022-04-05.md"}
+{"id": 1850, "text": "0. Daily Notes/2022-03-30.md"}
+{"id": 1851, "text": "0. Daily Notes/2022-04-04.md"}
+{"id": 1852, "text": "0. Daily Notes/2022-04-01.md"}
+{"id": 1853, "text": "0. Daily Notes/2022-03-31.md"}
+{"id": 1854, "text": "0. Daily Notes/2022-03-28.md"}
+{"id": 1855, "text": "0. Daily Notes/2021-12-16.md"}
+{"id": 1856, "text": "0. Daily Notes/2022-03-24.md"}
+{"id": 1857, "text": "0. Daily Notes/2022-03-22.md"}
+{"id": 1858, "text": "0. Daily Notes/2022-03-21.md"}
+{"id": 1859, "text": "0. Daily Notes/2022-03-18.md"}
+{"id": 1860, "text": "0. Daily Notes/2022-03-17.md"}
+{"id": 1861, "text": "0. Daily Notes/2022-03-16.md"}
+{"id": 1862, "text": "0. Daily Notes/2022-03-14.md"}
+{"id": 1863, "text": "0. Daily Notes/2022-03-11.md"}
+{"id": 1864, "text": "0. Daily Notes/2022-03-10.md"}
+{"id": 1865, "text": "0. Daily Notes/2022-03-09.md"}
+{"id": 1866, "text": "0. Daily Notes/2022-03-02.md"}
+{"id": 1867, "text": "0. Daily Notes/2022-03-01.md"}
+{"id": 1868, "text": "0. Daily Notes/2022-02-28.md"}
+{"id": 1869, "text": "0. Daily Notes/2022-02-27.md"}
+{"id": 1870, "text": "0. Daily Notes/2022-02-25.md"}
+{"id": 1871, "text": "0. Daily Notes/2022-02-24.md"}
+{"id": 1872, "text": "0. Daily Notes/2022-02-22.md"}
+{"id": 1873, "text": "0. Daily Notes/2022-02-20.md"}
+{"id": 1874, "text": "0. Daily Notes/2022-02-18.md"}
+{"id": 1875, "text": "0. Daily Notes/2022-02-17.md"}
+{"id": 1876, "text": "0. Daily Notes/2022-02-13.md"}
+{"id": 1877, "text": "0. Daily Notes/2022-02-12.md"}
+{"id": 1878, "text": "0. Daily Notes/2022-02-07.md"}
+{"id": 1879, "text": "0. Daily Notes/2022-02-05.md"}
+{"id": 1880, "text": "0. Daily Notes/2022-02-04.md"}
+{"id": 1881, "text": "0. Daily Notes/2022-02-03.md"}
+{"id": 1882, "text": "0. Daily Notes/2022-02-02.md"}
+{"id": 1883, "text": "0. Daily Notes/2022-02-01.md"}
+{"id": 1884, "text": "0. Daily Notes/2022-01-31.md"}
+{"id": 1885, "text": "0. Daily Notes/2022-01-29.md"}
+{"id": 1886, "text": "0. Daily Notes/2022-01-28.md"}
+{"id": 1887, "text": "0. Daily Notes/2022-01-27.md"}
+{"id": 1888, "text": "0. Daily Notes/2022-01-26.md"}
+{"id": 1889, "text": "0. Daily Notes/2022-01-25.md"}
+{"id": 1890, "text": "0. Daily Notes/2022-01-24.md"}
+{"id": 1891, "text": "0. Daily Notes/2022-01-20.md"}
+{"id": 1892, "text": "0. Daily Notes/2022-01-18.md"}
+{"id": 1893, "text": "0. Daily Notes/2022-01-15.md"}
+{"id": 1894, "text": "0. Daily Notes/2022-01-14.md"}
+{"id": 1895, "text": "0. Daily Notes/2022-01-13.md"}
+{"id": 1896, "text": "0. Daily Notes/2022-01-12.md"}
+{"id": 1897, "text": "0. Daily Notes/2022-01-11.md"}
+{"id": 1898, "text": "0. Daily Notes/2022-01-10.md"}
+{"id": 1899, "text": "0. Daily Notes/2022-01-09.md"}
+{"id": 1900, "text": "0. Daily Notes/2022-01-07.md"}
+{"id": 1901, "text": "0. Daily Notes/2022-01-06.md"}
+{"id": 1902, "text": "0. Daily Notes/2022-01-05.md"}
+{"id": 1903, "text": "0. Daily Notes/2022-01-04.md"}
+{"id": 1904, "text": "0. Daily Notes/2022-01-03.md"}
+{"id": 1905, "text": "0. Daily Notes/2021-12-22.md"}
+{"id": 1906, "text": "0. Daily Notes/2021-12-22 2.md"}
+{"id": 1907, "text": "0. Daily Notes/2021-12-21.md"}
+{"id": 1908, "text": "0. Daily Notes/2021-12-20.md"}
+{"id": 1909, "text": "0. Daily Notes/2021-12-19.md"}
+{"id": 1910, "text": "0. Daily Notes/2021-12-18.md"}
+{"id": 1911, "text": "0. Daily Notes/2021-12-17.md"}
+{"id": 1912, "text": "0. Daily Notes/2021-12-15.md"}
+{"id": 1913, "text": "0. Daily Notes/2021-12-03.md"}
+{"id": 1914, "text": "0. Daily Notes/2021-12-14.md"}
+{"id": 1915, "text": "0. Daily Notes/2021-12-13.md"}
+{"id": 1916, "text": "0. Daily Notes/2021-12-10.md"}
+{"id": 1917, "text": "0. Daily Notes/2021-12-09.md"}
+{"id": 1918, "text": "0. Daily Notes/2021-12-08.md"}
+{"id": 1919, "text": "0. Daily Notes/2021-12-07.md"}
+{"id": 1920, "text": "0. Daily Notes/2021-12-06.md"}
+{"id": 1921, "text": "0. Daily Notes/2021-12-05.md"}
+{"id": 1922, "text": "0. Daily Notes/2021-12-02.md"}
+{"id": 1923, "text": "0. Daily Notes/2021-11-30.md"}
+{"id": 1924, "text": "0. Daily Notes/2021-11-26.md"}
+{"id": 1925, "text": "0. Daily Notes/2021-11-24.md"}
+{"id": 1926, "text": "0. Daily Notes/2021-11-23.md"}
+{"id": 1927, "text": "0. Daily Notes/2021-11-21.md"}
+{"id": 1928, "text": "0. Daily Notes/2021-11-16.md"}
+{"id": 1929, "text": "0. Daily Notes/2021-11-01.md"}
+{"id": 1930, "text": "0. Daily Notes/2021-10-27.md"}
+{"id": 1931, "text": "0. Daily Notes/2021-10-26.md"}
+{"id": 1932, "text": "0. Daily Notes/2021-10-25.md"}
+{"id": 1933, "text": "0. Daily Notes/2021-10-24.md"}
+{"id": 1934, "text": "0. Daily Notes/2021-10-22.md"}
+{"id": 1935, "text": "0. Daily Notes/2021-10-21.md"}
+{"id": 1936, "text": "0. Daily Notes/2021-10-20.md"}
+{"id": 1937, "text": "0. Daily Notes/2021-10-19.md"}
+{"id": 1938, "text": "0. Daily Notes/2021-10-18.md"}
+{"id": 1939, "text": "0. Daily Notes/2021-10-15.md"}
+{"id": 1940, "text": "0. Daily Notes/2021-10-14.md"}
+{"id": 1941, "text": "0. Daily Notes/2021-10-13.md"}
+{"id": 1942, "text": "0. Daily Notes/2021-10-11.md"}
+{"id": 1943, "text": "0. Daily Notes/2021-10-08.md"}
+{"id": 1944, "text": "0. Daily Notes/2021-10-07.md"}
+{"id": 1945, "text": "0. Daily Notes/2021-10-06.md"}
+{"id": 1946, "text": "0. Daily Notes/2021-10-05.md"}
+{"id": 1947, "text": "0. Daily Notes/2021-10-04.md"}
+{"id": 1948, "text": "0. Daily Notes/2021-10-02.md"}
+{"id": 1949, "text": "0. Daily Notes/2021-09-30.md"}
+{"id": 1950, "text": "0. Daily Notes/2021-09-29.md"}
+{"id": 1951, "text": "0. Daily Notes/2021-09-28.md"}
+{"id": 1952, "text": "0. Daily Notes/2021-09-27.md"}
+{"id": 1953, "text": "0. Daily Notes/2021-09-22.md"}
+{"id": 1954, "text": "0. Daily Notes/2021-09-21.md"}
+{"id": 1955, "text": "0. Daily Notes/2021-09-20.md"}
+{"id": 1956, "text": "0. Daily Notes/2021-09-15.md"}
+{"id": 1957, "text": "0. Daily Notes/2021-09-14.md"}
+{"id": 1958, "text": "0. Daily Notes/2021-09-13.md"}
+{"id": 1959, "text": "0. Daily Notes/2021-09-12.md"}
+{"id": 1960, "text": "0. Daily Notes/2021-09-07.md"}
+{"id": 1961, "text": "0. Daily Notes/2021-09-01.md"}
+{"id": 1962, "text": "0. Daily Notes/2021-08-31.md"}
+{"id": 1963, "text": "0. Daily Notes/2021-08-30.md"}
+{"id": 1964, "text": "0. Daily Notes/2021-08-29.md"}
+{"id": 1965, "text": "0. Daily Notes/2021-08-28.md"}
+{"id": 1966, "text": "0. Daily Notes/2021-08-26.md"}
+{"id": 1967, "text": "0. Daily Notes/2021-08-24.md"}
+{"id": 1968, "text": "0. Daily Notes/2021-08-23.md"}
+{"id": 1969, "text": "0. Daily Notes/2021-08-20.md"}
+{"id": 1970, "text": "0. Daily Notes/2021-08-19.md"}
+{"id": 1971, "text": "0. Daily Notes/2021-08-18.md"}
+{"id": 1972, "text": "0. Daily Notes/2021-08-17.md"}
+{"id": 1973, "text": "0. Daily Notes/2021-08-16.md"}
+{"id": 1974, "text": "0. Daily Notes/2021-08-15.md"}
+{"id": 1975, "text": "0. Daily Notes/2021-08-13.md"}
+{"id": 1976, "text": "0. Daily Notes/2021-08-12.md"}
+{"id": 1977, "text": "0. Daily Notes/2021-08-11.md"}
+{"id": 1978, "text": "0. Daily Notes/2021-08-09.md"}
+{"id": 1979, "text": "0. Daily Notes/2021-08-07.md"}
+{"id": 1980, "text": "0. Daily Notes/2021-08-05.md"}
+{"id": 1981, "text": "0. Daily Notes/2021-08-04.md"}
+{"id": 1982, "text": "0. Daily Notes/2021-08-02.md"}
+{"id": 1983, "text": "0. Daily Notes/2021-07-31.md"}
+{"id": 1984, "text": "0. Daily Notes/2021-07-30.md"}
+{"id": 1985, "text": "0. Daily Notes/2021-07-29.md"}
+{"id": 1986, "text": "0. Daily Notes/2021-07-27.md"}
+{"id": 1987, "text": "0. Daily Notes/2021-07-26.md"}
+{"id": 1988, "text": "0. Daily Notes/2021-07-21.md"}
+{"id": 1989, "text": "0. Daily Notes/2021-07-20.md"}
+{"id": 1990, "text": "0. Daily Notes/2021-07-17.md"}
+{"id": 1991, "text": "0. Daily Notes/2021-04-11.md"}
+{"id": 1992, "text": "0. Daily Notes/2021-04-06.md"}

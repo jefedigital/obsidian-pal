@@ -1,13 +1,13 @@
 # YourPal - Obsidian Search Plugin
 
-YourPal is a Python-based assistant for Obsidian that provides powerful and efficient utilities to aid in knowledge management and research.
+YourPal is a Python-based assistant for [Obsidian](https://obsidian.md/) that provides powerful and efficient utilities to aid in knowledge management and research.
 
-## Features
+## Modules
 
-### Natural Language Search
-YourPal uses the [BM25S](https://huggingface.co/blog/xhluca/bm25s) algorithm to index and search your notes, offering more relevant results than Obsidians built-in search.
+### 1. Natural Language Search
+YourPal uses the [BM25S](https://huggingface.co/blog/xhluca/bm25s) algorithm to index and search your notes, offering more relevant results than Obsidian's built-in search.
 
-### More to come ..
+### 2. More to come ..
 
 ## Installation
 
